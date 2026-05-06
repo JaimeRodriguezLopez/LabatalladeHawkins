@@ -29,6 +29,7 @@ public class Lugares extends Thread{
     private final List<Demogorgon> CentroComercialUpsideDownDemogorgon = Collections.synchronizedList(new ArrayList<>());
 
     private final List<Nino> LaColmena = Collections.synchronizedList(new ArrayList<>());
+    private final List<Demogorgon> demogorgonsActivos = Collections.synchronizedList(new ArrayList<>());
 
 
     private final List<Nino> RadioWSQK = Collections.synchronizedList(new ArrayList<>());
@@ -52,6 +53,16 @@ public class Lugares extends Thread{
     private final Semaphore portalCentroComercialSemaphore = new Semaphore(1);
     private final Semaphore portalLaboratorioSemaphore = new Semaphore(1);
     private final Semaphore portalBosqueSemaphore = new Semaphore(1);
+
+    public void registrarDemogorgon(Demogorgon demogorgon) {
+        if (!demogorgonsActivos.contains(demogorgon)) {
+            demogorgonsActivos.add(demogorgon);
+        }
+    }
+
+    public List<Demogorgon> getDemogorgonsActivos() {
+        return demogorgonsActivos;
+    }
 
     public List<Demogorgon> getBosqueUpsideDownDemogorgon() {
         return BosqueUpsideDownDemogorgon;
@@ -242,6 +253,7 @@ public class Lugares extends Thread{
     public void run() {
         while (!Thread.currentThread().isInterrupted()) {
             try {
+                ControlPausa.getInstance().esperarSiPausado();
                 if(!eventos.getApagonLaboratorio()) {
                     // Bosque
                     moverParDePortales(portalNormalBosque, portalUpsideDownBosque);
@@ -298,7 +310,7 @@ public class Lugares extends Thread{
             }
 
             // tiempo de cruce ~1 segundo
-            Thread.sleep(1000);
+            ControlPausa.getInstance().dormir(1000);
         } finally {
             sem.release();
         }

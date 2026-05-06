@@ -1,1534 +1,552 @@
-[2026-04-27 18:07:17] ***Empieza la batalla de hawkings.***
-[2026-04-27 18:07:18] El demogorgon Alpha D0000 ha sido creado
-[2026-04-27 18:07:18] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:07:18] El niño N0000 se une a la batalla
-[2026-04-27 18:07:18] El niño N0000 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:18] El niño N0000 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:19] El niño N0000 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:19] El niño N0001 se une a la batalla
-[2026-04-27 18:07:19] El niño N0001 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:19] El niño N0001 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:20] El niño N0002 se une a la batalla
-[2026-04-27 18:07:20] El niño N0002 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:20] El niño N0002 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:21] El niño N0001 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:21] El niño N0003 se une a la batalla
-[2026-04-27 18:07:21] El niño N0003 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:21] El niño N0003 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:22] El niño N0002 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:22] El niño N0003 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:07:22] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:07:23] El niño N0004 se une a la batalla
-[2026-04-27 18:07:23] El niño N0004 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:23] El niño N0004 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:23] El niño N0005 se une a la batalla
-[2026-04-27 18:07:23] El niño N0005 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:23] El niño N0005 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:24] El niño N0004 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:24] El niño N0004 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:24] El niño N0004 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:07:24] El niño N0000 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:24] El niño N0006 se une a la batalla
-[2026-04-27 18:07:24] El niño N0006 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:24] El niño N0006 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:25] El niño N0005 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:07:25] El niño N0000 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:07:25] El niño N0007 se une a la batalla
-[2026-04-27 18:07:25] El niño N0007 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:25] El niño N0007 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:26] El niño N0006 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:26] El niño N0006 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:26] El niño N0006 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:07:26] El niño N0002 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:27] El niño N0008 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:27] El niño N0008 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:27] El niño N0008 se une a la batalla
-[2026-04-27 18:07:27] El niño N0007 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:07:27] El niño N0007 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:27] El niño N0003 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:27] El niño N0005 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:27] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:07:27] El demogorgon D0000 ataca a niño N0006.
-[2026-04-27 18:07:27] El niño N0007 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:07:27] El niño N0009 se une a la batalla
-[2026-04-27 18:07:27] El niño N0009 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:27] El niño N0009 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:28] El niño N0004 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:28] El ataque de D0000 a N0006 ha fallado.(Capturas: 0)
-[2026-04-27 18:07:28] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:07:28] El demogorgon D0000 ataca a niño N0000.
-[2026-04-27 18:07:28] El niño N0004 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:28] El niño N0004 deposita uno de sangre en el bote, llevan por ahora 1
-[2026-04-27 18:07:28] El niño N0008 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:29] El niño N0009 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:29] El niño N0010 se une a la batalla
-[2026-04-27 18:07:29] El niño N0010 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:29] El niño N0010 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:29] El niño N0002 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:07:29] El ataque de D0000 a N0000 ha sido realizado correctamente.(Capturas: 1)
-[2026-04-27 18:07:29] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:07:30] El niño N0000 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:07:30] El niño N0010 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:07:30] El niño N0006 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:30] El niño N0003 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:07:31] El niño N0011 se une a la batalla
-[2026-04-27 18:07:31] El niño N0011 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:31] El niño N0011 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:31] El niño N0007 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:31] El niño N0006 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:31] El niño N0006 deposita uno de sangre en el bote, llevan por ahora 2
-[2026-04-27 18:07:31] El niño N0012 se une a la batalla
-[2026-04-27 18:07:31] El niño N0012 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:31] El niño N0012 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:32] El niño N0004 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:32] El niño N0013 se une a la batalla
-[2026-04-27 18:07:32] El niño N0013 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:32] El niño N0013 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:32] El niño N0007 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:32] El niño N0007 deposita uno de sangre en el bote, llevan por ahora 3
-[2026-04-27 18:07:33] El niño N0011 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:33] El niño N0012 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:33] El niño N0012 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:33] El niño N0008 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:33] El niño N0013 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:07:33] El niño N0012 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:07:33] El niño N0014 se une a la batalla
-[2026-04-27 18:07:33] El niño N0014 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:33] El niño N0014 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:34] El niño N0002 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:34] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:07:34] El niño N0005 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:07:34] El niño N0007 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:35] El niño N0015 se une a la batalla
-[2026-04-27 18:07:35] El niño N0015 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:35] El niño N0015 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:35] El niño N0006 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:35] El niño N0014 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:35] El niño N0004 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:35] El niño N0003 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:35] El niño N0002 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:35] El niño N0002 deposita uno de sangre en el bote, llevan por ahora 4
-[2026-04-27 18:07:36] El niño N0015 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:36] El niño N0015 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:36] El niño N0009 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:36] El niño N0003 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:36] El niño N0003 deposita uno de sangre en el bote, llevan por ahora 5
-[2026-04-27 18:07:36] El niño N0016 se une a la batalla
-[2026-04-27 18:07:36] El niño N0016 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:36] El niño N0016 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:37] El niño N0004 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:37] El niño N0004 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:37] El niño N0011 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:37] El niño N0001 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:37] El niño N0014 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:37] El niño N0012 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:37] El niño N0004 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:07:37] El niño N0016 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:38] El niño N0006 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:38] El niño N0007 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:38] El niño N0017 se une a la batalla
-[2026-04-27 18:07:38] El niño N0017 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:38] El niño N0017 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:38] El niño N0015 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:07:38] El niño N0002 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:39] El niño N0018 se une a la batalla
-[2026-04-27 18:07:39] El niño N0018 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:39] El niño N0018 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:39] El niño N0005 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:39] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:07:39] El niño N0003 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:39] El niño N0012 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:39] El niño N0012 deposita uno de sangre en el bote, llevan por ahora 6
-[2026-04-27 18:07:39] El niño N0007 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:07:39] El niño N0007 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:39] El niño N0013 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:39] El niño N0010 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:39] El niño N0006 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:40] El niño N0017 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:40] El niño N0017 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:40] El niño N0006 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:40] El niño N0018 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:07:40] El niño N0005 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:40] El niño N0005 deposita uno de sangre en el bote, llevan por ahora 7
-[2026-04-27 18:07:40] El niño N0019 se une a la batalla
-[2026-04-27 18:07:40] El niño N0019 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:40] El niño N0019 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:41] El niño N0004 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:41] El niño N0004 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:41] El niño N0004 deposita uno de sangre en el bote, llevan por ahora 8
-[2026-04-27 18:07:42] El niño N0020 se une a la batalla
-[2026-04-27 18:07:42] El niño N0020 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:42] El niño N0020 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:42] El niño N0019 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:42] El niño N0002 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:42] El niño N0009 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:07:42] El niño N0012 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:42] El niño N0021 se une a la batalla
-[2026-04-27 18:07:42] El niño N0021 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:42] El niño N0021 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:43] El niño N0003 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:43] El niño N0015 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:43] El niño N0022 se une a la batalla
-[2026-04-27 18:07:43] El niño N0022 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:43] El niño N0022 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:43] El niño N0008 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:07:43] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:07:43] El demogorgon D0000 ataca a niño N0008.
-[2026-04-27 18:07:43] El niño N0002 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:43] El niño N0004 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:44] El niño N0005 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:44] El niño N0021 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:44] El niño N0020 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:44] El ataque de D0000 a N0008 ha fallado.(Capturas: 1)
-[2026-04-27 18:07:44] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:07:44] El demogorgon D0000 ataca a niño N0008.
-[2026-04-27 18:07:44] El niño N0007 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:07:45] El niño N0003 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:45] El niño N0020 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:45] El niño N0003 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:45] El niño N0023 se une a la batalla
-[2026-04-27 18:07:45] El niño N0023 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:45] El niño N0023 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:45] El niño N0022 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:45] El niño N0016 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:45] El niño N0022 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:45] El niño N0002 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:45] El niño N0019 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:45] El niño N0001 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:07:46] El ataque de D0000 a N0008 ha sido realizado correctamente.(Capturas: 2)
-[2026-04-27 18:07:46] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:07:46] El niño N0024 se une a la batalla
-[2026-04-27 18:07:46] El niño N0024 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:46] El niño N0024 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:46] El niño N0012 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:46] El niño N0023 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:46] El niño N0023 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:46] El niño N0021 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:46] El niño N0015 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:46] El niño N0015 deposita uno de sangre en el bote, llevan por ahora 9
-[2026-04-27 18:07:46] El niño N0009 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:47] El niño N0008 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:07:47] El niño N0012 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:47] El niño N0023 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:07:47] El niño N0024 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:47] El niño N0007 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:47] El niño N0004 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:48] El niño N0025 se une a la batalla
-[2026-04-27 18:07:48] El niño N0025 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:48] El niño N0025 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:48] El niño N0007 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:48] El niño N0007 deposita uno de sangre en el bote, llevan por ahora 10
-[2026-04-27 18:07:48] El niño N0001 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:48] El niño N0015 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:48] El niño N0005 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:49] El niño N0001 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:49] El niño N0001 deposita uno de sangre en el bote, llevan por ahora 11
-[2026-04-27 18:07:49] El niño N0025 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:49] El niño N0012 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:49] El niño N0025 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:49] El niño N0004 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:50] El niño N0026 se une a la batalla
-[2026-04-27 18:07:50] El niño N0026 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:50] El niño N0026 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:50] El niño N0005 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:50] El niño N0009 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:50] El niño N0009 deposita uno de sangre en el bote, llevan por ahora 12
-[2026-04-27 18:07:51] El niño N0026 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:51] El niño N0026 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:51] El niño N0024 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:51] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:07:51] El niño N0023 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:07:51] El niño N0007 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:51] El niño N0023 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:07:51] El niño N0023 deposita uno de sangre en el bote, llevan por ahora 13
-[2026-04-27 18:07:51] El niño N0027 se une a la batalla
-[2026-04-27 18:07:51] El niño N0027 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:51] El niño N0027 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:52] ***EMPIEZA EL EVENTO TORMENTA DEL UPSIDE DOWN***
-[2026-04-27 18:07:52] El niño N0001 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:52] El niño N0015 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:52] El niño N0010 ha pasado al upside down permanecerá allí 9 segundos.
-[2026-04-27 18:07:53] El niño N0028 se une a la batalla
-[2026-04-27 18:07:53] El niño N0028 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:53] El niño N0028 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:53] El niño N0027 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:07:53] El niño N0005 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:53] El niño N0027 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:53] El niño N0011 ha pasado al upside down permanecerá allí 7 segundos.
-[2026-04-27 18:07:54] El niño N0009 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:54] El niño N0015 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:54] El niño N0023 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:07:54] El niño N0017 ha pasado al upside down permanecerá allí 9 segundos.
-[2026-04-27 18:07:54] El niño N0028 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:07:55] El niño N0029 se une a la batalla
-[2026-04-27 18:07:55] El niño N0029 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:55] El niño N0029 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:55] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:07:55] El demogorgon D0000 ataca a niño N0010.
-[2026-04-27 18:07:55] El niño N0001 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:55] El niño N0021 ha pasado al upside down permanecerá allí 6 segundos.
-[2026-04-27 18:07:55] El niño N0007 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:56] El ataque de D0000 a N0010 ha fallado.(Capturas: 2)
-[2026-04-27 18:07:56] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:07:56] El demogorgon D0000 ataca a niño N0021.
-[2026-04-27 18:07:56] El niño N0013 ha pasado al upside down permanecerá allí 6 segundos.
-[2026-04-27 18:07:56] El niño N0030 se une a la batalla
-[2026-04-27 18:07:56] El niño N0030 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:56] El niño N0030 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:56] El niño N0001 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:56] El niño N0001 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:56] El niño N0015 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:57] El niño N0029 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:07:57] El niño N0007 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:57] El ataque de D0000 a N0021 ha sido realizado correctamente.(Capturas: 3)
-[2026-04-27 18:07:57] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:07:57] El demogorgon D0000 ataca a niño N0013.
-[2026-04-27 18:07:57] El niño N0014 ha pasado al upside down permanecerá allí 9 segundos.
-[2026-04-27 18:07:57] El niño N0031 se une a la batalla
-[2026-04-27 18:07:57] El niño N0031 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:57] El niño N0031 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:57] El niño N0030 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:57] El niño N0030 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:57] El niño N0007 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:57] El niño N0023 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:58] El niño N0009 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:58] El ataque de D0000 a N0013 ha sido realizado correctamente.(Capturas: 4)
-[2026-04-27 18:07:58] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:07:58] El demogorgon D0000 ataca a niño N0011.
-[2026-04-27 18:07:58] El niño N0006 ha pasado al upside down permanecerá allí 8 segundos.
-[2026-04-27 18:07:58] El ataque de D0000 a N0011 ha fallado.(Capturas: 4)
-[2026-04-27 18:07:58] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:07:59] El niño N0032 se une a la batalla
-[2026-04-27 18:07:59] El niño N0032 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:07:59] El niño N0032 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:07:59] El niño N0023 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:59] El niño N0031 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:07:59] El niño N0031 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:59] El niño N0023 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:07:59] El niño N0026 ha pasado al upside down permanecerá allí 9 segundos.
-[2026-04-27 18:08:00] El niño N0009 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:00] El niño N0009 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:00] El niño N0018 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:00] El niño N0028 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:00] El niño N0032 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:00] El niño N0033 se une a la batalla
-[2026-04-27 18:08:00] El niño N0033 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:00] El niño N0033 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:00] El niño N0009 ha pasado al upside down permanecerá allí 9 segundos.
-[2026-04-27 18:08:00] El niño N0011 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:01] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:08:01] El demogorgon D0000 ataca a niño N0006.
-[2026-04-27 18:08:01] El ataque de D0000 a N0006 ha fallado.(Capturas: 4)
-[2026-04-27 18:08:01] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:08:01] El demogorgon D0000 ataca a niño N0014.
-[2026-04-27 18:08:01] ***TERMINA EL EVENTO TORMENTA DEL UPSIDE DOWN***
-[2026-04-27 18:08:01] El niño N0011 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:01] El niño N0011 deposita uno de sangre en el bote, llevan por ahora 14
-[2026-04-27 18:08:01] El niño N0033 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:02] El ataque de D0000 a N0014 ha fallado.(Capturas: 4)
-[2026-04-27 18:08:02] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:08:02] El demogorgon D0000 ataca a niño N0006.
-[2026-04-27 18:08:02] El niño N0021 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:08:02] El niño N0034 se une a la batalla
-[2026-04-27 18:08:02] El niño N0034 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:02] El niño N0034 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:02] El niño N0010 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:02] El niño N0003 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:03] El niño N0034 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:03] El niño N0032 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:03] El niño N0034 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:03] El ataque de D0000 a N0006 ha fallado.(Capturas: 4)
-[2026-04-27 18:08:03] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:08:03] El demogorgon D0000 ataca a niño N0014.
-[2026-04-27 18:08:03] El niño N0013 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:08:03] El niño N0024 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:03] El niño N0035 se une a la batalla
-[2026-04-27 18:08:03] El niño N0035 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:03] El niño N0035 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:04] El niño N0036 se une a la batalla
-[2026-04-27 18:08:04] El niño N0036 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:04] El niño N0036 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:04] El niño N0017 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:04] El niño N0010 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:04] El niño N0010 deposita uno de sangre en el bote, llevan por ahora 15
-[2026-04-27 18:08:04] El ataque de D0000 a N0014 ha fallado.(Capturas: 4)
-[2026-04-27 18:08:04] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:08:04] El demogorgon D0000 ataca a niño N0003.
-[2026-04-27 18:08:05] El niño N0011 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:05] El niño N0035 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:05] El niño N0016 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:05] El niño N0036 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:06] El niño N0037 se une a la batalla
-[2026-04-27 18:08:06] El niño N0037 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:06] El niño N0037 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:06] El niño N0003 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:06] El niño N0017 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:06] El niño N0017 deposita uno de sangre en el bote, llevan por ahora 16
-[2026-04-27 18:08:06] El ataque de D0000 a N0003 ha sido realizado correctamente.(Capturas: 5)
-[2026-04-27 18:08:06] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:08:06] El demogorgon D0000 ataca a niño N0006.
-[2026-04-27 18:08:07] El niño N0038 se une a la batalla
-[2026-04-27 18:08:07] El niño N0038 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:07] El niño N0038 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:07] El niño N0014 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:07] El niño N0010 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:07] El niño N0006 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:07] El niño N0024 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:07] El niño N0024 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:07] El niño N0024 deposita uno de sangre en el bote, llevan por ahora 17
-[2026-04-27 18:08:07] El niño N0037 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:07] El niño N0004 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:07] El niño N0037 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:07] El niño N0029 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:07] El niño N0033 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:08] El niño N0039 se une a la batalla
-[2026-04-27 18:08:08] El niño N0039 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:08] El niño N0039 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:08] El niño N0038 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:08] El niño N0036 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:08] El niño N0038 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:08] El ataque de D0000 a N0006 ha sido realizado correctamente.(Capturas: 6)
-[2026-04-27 18:08:08] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:08:08] El demogorgon D0000 ataca a niño N0009.
-[2026-04-27 18:08:08] El niño N0018 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:08] El niño N0017 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:08] El niño N0016 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:09] El niño N0040 se une a la batalla
-[2026-04-27 18:08:09] El niño N0040 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:09] El niño N0040 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:09] El niño N0011 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:09] El ataque de D0000 a N0009 ha fallado.(Capturas: 6)
-[2026-04-27 18:08:09] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:08:09] El demogorgon D0000 ataca a niño N0009.
-[2026-04-27 18:08:09] El niño N0026 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:09] El niño N0014 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:09] El niño N0014 deposita uno de sangre en el bote, llevan por ahora 18
-[2026-04-27 18:08:09] El niño N0039 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:10] El niño N0041 se une a la batalla
-[2026-04-27 18:08:10] El niño N0041 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:10] El niño N0041 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:10] El niño N0009 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:10] El niño N0042 se une a la batalla
-[2026-04-27 18:08:10] El niño N0042 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:10] El niño N0042 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:10] El niño N0003 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:10] El niño N0003 ha vuelto sin sangre
-[2026-04-27 18:08:10] El ataque de D0000 a N0009 ha fallado.(Capturas: 6)
-[2026-04-27 18:08:10] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:08:10] El niño N0010 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:11] El niño N0011 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:11] El niño N0011 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:11] El niño N0035 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:11] El niño N0024 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:11] El niño N0040 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:11] El niño N0043 se une a la batalla
-[2026-04-27 18:08:11] El niño N0043 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:11] El niño N0043 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:11] El niño N0041 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:11] El niño N0026 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:11] El niño N0026 deposita uno de sangre en el bote, llevan por ahora 19
-[2026-04-27 18:08:11] El niño N0042 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:11] El niño N0042 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:11] El niño N0040 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:11] El niño N0017 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:12] El niño N0010 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:12] El niño N0014 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:12] El niño N0009 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:12] El niño N0009 deposita uno de sangre en el bote, llevan por ahora 20
-[2026-04-27 18:08:13] El niño N0044 se une a la batalla
-[2026-04-27 18:08:13] El niño N0044 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:13] El niño N0044 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:13] El niño N0017 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:13] El niño N0018 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:13] El niño N0043 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:13] El niño N0016 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:13] El niño N0016 deposita uno de sangre en el bote, llevan por ahora 21
-[2026-04-27 18:08:14] El niño N0003 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:14] El niño N0044 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:14] El niño N0045 se une a la batalla
-[2026-04-27 18:08:14] El niño N0045 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:14] El niño N0045 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:14] El niño N0006 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:14] El niño N0006 ha vuelto sin sangre
-[2026-04-27 18:08:14] El niño N0026 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:15] El niño N0024 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:15] El niño N0009 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:15] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:08:15] El niño N0001 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:15] El niño N0045 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:16] El niño N0046 se une a la batalla
-[2026-04-27 18:08:16] El niño N0046 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:16] El niño N0046 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:16] El niño N0016 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:16] El niño N0014 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:16] El niño N0018 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:16] El niño N0018 deposita uno de sangre en el bote, llevan por ahora 22
-[2026-04-27 18:08:17] El niño N0024 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:17] El niño N0024 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:17] El niño N0043 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:17] El niño N0044 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:17] El niño N0003 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:17] El niño N0046 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:17] El niño N0006 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:17] El niño N0014 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:17] El niño N0014 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:17] El niño N0017 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:17] El niño N0022 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:17] El niño N0047 se une a la batalla
-[2026-04-27 18:08:17] El niño N0047 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:17] El niño N0047 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:18] El niño N0026 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:18] El niño N0048 se une a la batalla
-[2026-04-27 18:08:18] El niño N0048 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:18] El niño N0048 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:18] El niño N0020 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:18] El niño N0003 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:18] El niño N0003 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:18] El niño N0039 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:19] El niño N0018 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:19] El niño N0009 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:19] El niño N0047 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:19] El niño N0047 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:19] El niño N0041 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:19] El niño N0045 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:19] El niño N0010 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:19] El niño N0026 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:19] El niño N0049 se une a la batalla
-[2026-04-27 18:08:19] El niño N0049 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:19] El niño N0049 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:19] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:08:19] El demogorgon D0000 ataca a niño N0001.
-[2026-04-27 18:08:19] El niño N0048 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:19] El niño N0048 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:19] El niño N0026 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:19] El niño N0015 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:19] El niño N0001 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:20] El niño N0016 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:20] El niño N0009 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:20] El ataque de D0000 a N0001 ha fallado.(Capturas: 6)
-[2026-04-27 18:08:20] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:08:20] El demogorgon D0000 ataca a niño N0001.
-[2026-04-27 18:08:20] El niño N0028 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:21] El niño N0022 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:21] El niño N0050 se une a la batalla
-[2026-04-27 18:08:21] El niño N0050 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:21] El niño N0050 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:21] El niño N0049 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:21] El niño N0049 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:21] El niño N0046 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:21] El niño N0009 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:21] El niño N0016 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:21] El niño N0006 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:21] El niño N0022 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:21] El niño N0022 deposita uno de sangre en el bote, llevan por ahora 23
-[2026-04-27 18:08:21] El ataque de D0000 a N0001 ha fallado.(Capturas: 6)
-[2026-04-27 18:08:21] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:08:21] El demogorgon D0000 ataca a niño N0015.
-[2026-04-27 18:08:22] El niño N0051 se une a la batalla
-[2026-04-27 18:08:22] El niño N0051 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:22] El niño N0051 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:22] El niño N0020 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:22] El niño N0050 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:22] El niño N0020 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:22] El niño N0020 deposita uno de sangre en el bote, llevan por ahora 24
-[2026-04-27 18:08:22] El niño N0006 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:23] El niño N0015 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:08:23] El niño N0015 ha sido liberado de la colmena
-[2026-04-27 18:08:23] El niño N0015 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:23] El niño N0015 ha vuelto sin sangre
-[2026-04-27 18:08:23] El ataque de D0000 a N0015 ha sido realizado correctamente.(Capturas: 7)
-[2026-04-27 18:08:23] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:08:23] El demogorgon D0000 ataca a niño N0009.
-[2026-04-27 18:08:23] El niño N0052 se une a la batalla
-[2026-04-27 18:08:23] El niño N0052 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:23] El niño N0052 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:23] El niño N0001 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:23] El niño N0001 deposita uno de sangre en el bote, llevan por ahora 25
-[2026-04-27 18:08:23] El niño N0022 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:23] El niño N0018 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:24] El ataque de D0000 a N0009 ha fallado.(Capturas: 7)
-[2026-04-27 18:08:24] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:08:24] El demogorgon D0000 ataca a niño N0009.
-[2026-04-27 18:08:24] El niño N0051 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:24] El niño N0051 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:24] El niño N0006 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:24] El niño N0028 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:24] El niño N0052 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:24] El niño N0050 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:24] El niño N0052 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:24] El niño N0028 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:24] El niño N0028 deposita uno de sangre en el bote, llevan por ahora 26
-[2026-04-27 18:08:25] El niño N0053 se une a la batalla
-[2026-04-27 18:08:25] El niño N0053 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:25] El niño N0053 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:25] El niño N0018 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:25] El ataque de D0000 a N0009 ha fallado.(Capturas: 7)
-[2026-04-27 18:08:25] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:08:25] El demogorgon D0000 ataca a niño N0009.
-[2026-04-27 18:08:25] El niño N0020 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:25] El niño N0002 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:26] El niño N0053 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:26] El niño N0054 se une a la batalla
-[2026-04-27 18:08:26] El niño N0054 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:26] El niño N0054 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:26] El ataque de D0000 a N0009 ha sido realizado correctamente.(Capturas: 8)
-[2026-04-27 18:08:26] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:08:26] El demogorgonD0001 se une a la batalla
-[2026-04-27 18:08:26] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:08:26] El niño N0015 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:26] El niño N0012 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:26] El niño N0001 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:26] El niño N0028 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:26] El niño N0055 se une a la batalla
-[2026-04-27 18:08:26] El niño N0055 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:26] El niño N0055 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:27] El niño N0022 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:27] El niño N0030 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:27] El niño N0054 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:27] El niño N0054 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:27] El niño N0018 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:28] El niño N0055 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:28] El niño N0055 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:28] El niño N0053 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:28] El niño N0022 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:28] El niño N0056 se une a la batalla
-[2026-04-27 18:08:28] El niño N0056 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:28] El niño N0056 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:28] El niño N0024 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:29] El niño N0057 se une a la batalla
-[2026-04-27 18:08:29] El niño N0057 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:29] El niño N0057 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:29] El niño N0020 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:29] El niño N0056 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:29] El niño N0058 se une a la batalla
-[2026-04-27 18:08:29] El niño N0058 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:29] El niño N0058 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:29] El niño N0002 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:29] El niño N0002 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:29] El niño N0002 deposita uno de sangre en el bote, llevan por ahora 27
-[2026-04-27 18:08:30] El niño N0057 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:30] El niño N0057 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:30] El niño N0056 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:30] El niño N0001 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:30] El niño N0020 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:30] El niño N0025 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:30] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:08:30] El demogorgon D0000 ataca a niño N0001.
-[2026-04-27 18:08:30] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:08:30] El demogorgon D0001 ataca a niño N0025.
-[2026-04-27 18:08:30] El niño N0015 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:30] El niño N0028 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:31] El niño N0059 se une a la batalla
-[2026-04-27 18:08:31] El niño N0059 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:31] El niño N0059 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:31] El niño N0058 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:31] El niño N0022 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:31] El niño N0058 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:31] El niño N0012 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:31] El ataque de D0001 a N0025 ha fallado.(Capturas: 0)
-[2026-04-27 18:08:31] El demogorgon D0001 se dirige al Laboratorio
-[2026-04-27 18:08:31] El demogorgon D0001 ataca a niño N0024.
-[2026-04-27 18:08:31] El niño N0007 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:32] El niño N0015 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:32] El niño N0059 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:32] El niño N0059 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:32] El niño N0016 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:32] El niño N0020 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:32] El niño N0015 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:32] El niño N0002 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:32] El niño N0028 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:32] El niño N0001 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:32] El niño N0060 se une a la batalla
-[2026-04-27 18:08:32] El niño N0060 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:32] El niño N0060 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:32] El ataque de D0000 a N0001 ha sido realizado correctamente.(Capturas: 9)
-[2026-04-27 18:08:32] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:08:32] El demogorgon D0000 ataca a niño N0007.
-[2026-04-27 18:08:32] El niño N0030 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:32] El niño N0043 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:32] El ataque de D0001 a N0024 ha fallado.(Capturas: 0)
-[2026-04-27 18:08:32] El demogorgon D0001 se dirige al Centro Comercial
-[2026-04-27 18:08:33] El niño N0024 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:33] El niño N0019 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:33] El ataque de D0000 a N0007 ha fallado.(Capturas: 9)
-[2026-04-27 18:08:33] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:08:33] El demogorgon D0000 ataca a niño N0025.
-[2026-04-27 18:08:34] El niño N0060 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:34] El niño N0061 se une a la batalla
-[2026-04-27 18:08:34] El niño N0061 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:34] El niño N0061 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:34] El niño N0012 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:34] El niño N0012 deposita uno de sangre en el bote, llevan por ahora 28
-[2026-04-27 18:08:35] El ataque de D0000 a N0025 ha fallado.(Capturas: 9)
-[2026-04-27 18:08:35] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:08:35] El demogorgon D0000 ataca a niño N0007.
-[2026-04-27 18:08:35] El niño N0025 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:35] El niño N0007 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:35] El niño N0030 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:35] El niño N0030 deposita uno de sangre en el bote, llevan por ahora 29
-[2026-04-27 18:08:35] El niño N0061 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:35] El niño N0043 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:35] El ataque de D0000 a N0007 ha fallado.(Capturas: 9)
-[2026-04-27 18:08:35] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:08:35] El niño N0062 se une a la batalla
-[2026-04-27 18:08:35] El niño N0062 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:35] El niño N0062 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:36] El niño N0002 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:36] El niño N0024 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:36] El niño N0024 deposita uno de sangre en el bote, llevan por ahora 30
-[2026-04-27 18:08:37] El niño N0062 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:37] El niño N0063 se une a la batalla
-[2026-04-27 18:08:37] El niño N0063 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:37] El niño N0063 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:37] El niño N0012 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:37] El niño N0004 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:37] El niño N0002 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:37] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:08:38] El niño N0019 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:38] El niño N0025 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:38] El niño N0025 deposita uno de sangre en el bote, llevan por ahora 31
-[2026-04-27 18:08:38] El niño N0063 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:38] El niño N0062 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:38] El niño N0063 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:39] El niño N0024 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:39] El niño N0064 se une a la batalla
-[2026-04-27 18:08:39] El niño N0064 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:39] El niño N0064 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:39] El niño N0030 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:39] El niño N0065 se une a la batalla
-[2026-04-27 18:08:39] El niño N0065 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:39] El niño N0065 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:39] El niño N0007 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:39] El niño N0007 deposita uno de sangre en el bote, llevan por ahora 32
-[2026-04-27 18:08:40] El niño N0064 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:40] El niño N0064 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:40] El niño N0002 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:40] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:08:40] El niño N0066 se une a la batalla
-[2026-04-27 18:08:40] El niño N0066 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:40] El niño N0066 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:40] El niño N0043 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:40] El niño N0043 deposita uno de sangre en el bote, llevan por ahora 33
-[2026-04-27 18:08:41] El niño N0012 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:41] El niño N0065 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:41] El niño N0065 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:41] El niño N0028 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:41] El niño N0061 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:41] El niño N0004 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:41] El niño N0019 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:41] El niño N0019 deposita uno de sangre en el bote, llevan por ahora 34
-[2026-04-27 18:08:42] El niño N0012 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:42] El niño N0066 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:42] El niño N0025 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:42] El niño N0024 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:42] El niño N0067 se une a la batalla
-[2026-04-27 18:08:42] El niño N0067 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:42] El niño N0067 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:42] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:08:42] El niño N0005 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:43] El niño N0068 se une a la batalla
-[2026-04-27 18:08:43] El niño N0068 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:43] El niño N0068 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:43] El niño N0007 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:43] El niño N0031 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:43] El niño N0043 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:43] El niño N0067 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:44] El niño N0030 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:44] El niño N0069 se une a la batalla
-[2026-04-27 18:08:44] El niño N0069 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:44] El niño N0069 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:44] El niño N0024 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:44] El niño N0024 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:44] El niño N0067 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:44] El niño N0012 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:44] El niño N0019 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:44] El niño N0044 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:44] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:08:44] El niño N0068 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:45] El niño N0030 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:45] El niño N0001 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:45] El niño N0060 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:45] El niño N0066 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:45] El niño N0030 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:45] El niño N0070 se une a la batalla
-[2026-04-27 18:08:45] El niño N0070 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:45] El niño N0070 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:45] El niño N0069 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:45] El niño N0004 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:45] El niño N0004 deposita uno de sangre en el bote, llevan por ahora 35
-[2026-04-27 18:08:46] El niño N0005 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:46] El niño N0007 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:46] El niño N0025 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:46] El niño N0005 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:46] El niño N0005 deposita uno de sangre en el bote, llevan por ahora 36
-[2026-04-27 18:08:47] El demogorgon D0001 se dirige al Centro Comercial
-[2026-04-27 18:08:47] El niño N0043 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:47] El niño N0070 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:47] El niño N0071 se une a la batalla
-[2026-04-27 18:08:47] El niño N0071 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:47] El niño N0071 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:47] El niño N0023 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:47] El niño N0025 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:47] El niño N0025 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:47] El niño N0068 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:47] El niño N0069 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:47] El niño N0007 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:48] El niño N0031 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:48] El niño N0044 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:48] ***EMPIEZA EL EVENTO EL APAGON DEL LABORATORIO***
-[2026-04-27 18:08:48] El niño N0072 se une a la batalla
-[2026-04-27 18:08:48] El niño N0072 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:48] El niño N0072 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:48] El niño N0044 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:48] El niño N0044 deposita uno de sangre en el bote, llevan por ahora 37
-[2026-04-27 18:08:48] El niño N0004 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:48] El niño N0005 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:48] El niño N0071 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:49] El niño N0043 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:49] El niño N0019 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:49] El niño N0037 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:08:50] El niño N0072 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:50] El niño N0072 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:50] El niño N0070 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:50] El niño N0007 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:50] El niño N0071 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:50] El niño N0073 se une a la batalla
-[2026-04-27 18:08:50] El niño N0073 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:50] El niño N0073 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:50] El niño N0019 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:50] El niño N0043 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:50] El niño N0019 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:50] El niño N0027 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:51] El niño N0074 se une a la batalla
-[2026-04-27 18:08:51] El niño N0074 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:51] El niño N0074 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:51] El niño N0044 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:51] El demogorgon D0001 ataca a niño N0037.
-[2026-04-27 18:08:51] El niño N0073 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:52] El niño N0075 se une a la batalla
-[2026-04-27 18:08:52] El niño N0075 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:52] El niño N0075 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:52] El niño N0074 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:52] El niño N0023 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:52] El ataque de D0001 a N0037 ha fallado.(Capturas: 0)
-[2026-04-27 18:08:52] El demogorgon D0001 ataca a niño N0037.
-[2026-04-27 18:08:52] El niño N0004 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:52] El niño N0005 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:52] El niño N0076 se une a la batalla
-[2026-04-27 18:08:52] El niño N0076 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:52] El niño N0076 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:53] El niño N0075 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:53] El niño N0077 se une a la batalla
-[2026-04-27 18:08:53] El niño N0077 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:53] El niño N0077 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:53] El niño N0037 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:08:53] El niño N0037 ha sido liberado de la colmena
-[2026-04-27 18:08:53] El niño N0037 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:53] El niño N0037 ha vuelto sin sangre
-[2026-04-27 18:08:54] El ataque de D0001 a N0037 ha sido realizado correctamente.(Capturas: 1)
-[2026-04-27 18:08:54] El niño N0078 se une a la batalla
-[2026-04-27 18:08:54] El niño N0078 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:54] El niño N0078 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:54] El niño N0005 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:54] El niño N0027 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:08:54] El niño N0004 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:08:54] El niño N0044 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:54] El niño N0076 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:54] El niño N0076 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:54] El niño N0073 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:54] El niño N0005 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:54] El niño N0079 se une a la batalla
-[2026-04-27 18:08:54] El niño N0079 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:54] El niño N0079 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:55] ***TERMINA EL EVENTO EL APAGON DEL LABORATORIO***
-[2026-04-27 18:08:55] El niño N0031 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:55] El niño N0031 deposita uno de sangre en el bote, llevan por ahora 38
-[2026-04-27 18:08:55] El niño N0077 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:08:55] El niño N0075 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:55] El niño N0077 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:55] El niño N0078 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:08:55] El niño N0044 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:56] El niño N0037 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:56] El niño N0049 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:56] El niño N0080 se une a la batalla
-[2026-04-27 18:08:56] El niño N0080 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:56] El niño N0080 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:56] El niño N0079 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:57] El niño N0081 se une a la batalla
-[2026-04-27 18:08:57] El niño N0081 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:57] El niño N0081 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:57] El niño N0029 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:08:57] El niño N0080 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:57] El niño N0080 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:57] El niño N0074 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:57] El niño N0044 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:57] El niño N0079 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:08:57] El niño N0031 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:08:58] El niño N0027 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:58] El niño N0027 deposita uno de sangre en el bote, llevan por ahora 39
-[2026-04-27 18:08:58] El niño N0082 se une a la batalla
-[2026-04-27 18:08:58] El niño N0082 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:58] El niño N0082 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:58] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:08:58] El demogorgon D0000 ataca a niño N0049.
-[2026-04-27 18:08:58] El niño N0081 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:08:58] El demogorgon D0001 se dirige al Bosque
-[2026-04-27 18:08:58] El demogorgon D0001 ataca a niño N0007.
-[2026-04-27 18:08:59] El niño N0023 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:08:59] El niño N0023 deposita uno de sangre en el bote, llevan por ahora 40
-[2026-04-27 18:08:59] El niño N0037 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:08:59] El ataque de D0001 a N0007 ha fallado.(Capturas: 1)
-[2026-04-27 18:08:59] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:08:59] El niño N0083 se une a la batalla
-[2026-04-27 18:08:59] El niño N0083 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:08:59] El niño N0083 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:00] El niño N0049 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:09:00] El niño N0049 ha sido liberado de la colmena
-[2026-04-27 18:09:00] El niño N0049 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:00] El niño N0049 ha vuelto sin sangre
-[2026-04-27 18:09:00] El ataque de D0000 a N0049 ha sido realizado correctamente.(Capturas: 10)
-[2026-04-27 18:09:00] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:00] El demogorgon D0000 ataca a niño N0007.
-[2026-04-27 18:09:00] El niño N0046 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:00] El niño N0082 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:00] El niño N0027 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:00] El niño N0037 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:00] El niño N0004 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:00] El niño N0037 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:01] El ataque de D0000 a N0007 ha fallado.(Capturas: 10)
-[2026-04-27 18:09:01] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:01] El demogorgon D0000 ataca a niño N0007.
-[2026-04-27 18:09:01] El niño N0029 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:01] El niño N0029 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:01] El niño N0029 deposita uno de sangre en el bote, llevan por ahora 41
-[2026-04-27 18:09:01] El niño N0084 se une a la batalla
-[2026-04-27 18:09:01] El niño N0084 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:01] El niño N0084 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:01] El niño N0083 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:01] El niño N0023 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:02] El niño N0031 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:02] El niño N0085 se une a la batalla
-[2026-04-27 18:09:02] El niño N0085 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:02] El niño N0085 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:02] El ataque de D0000 a N0007 ha sido realizado correctamente.(Capturas: 11)
-[2026-04-27 18:09:02] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:09:02] El demogorgon D0000 ataca a niño N0046.
-[2026-04-27 18:09:02] El niño N0035 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:02] El niño N0049 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:03] El niño N0084 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:03] El niño N0084 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:03] El niño N0083 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:03] El niño N0032 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:03] El niño N0085 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:03] El ataque de D0000 a N0046 ha fallado.(Capturas: 11)
-[2026-04-27 18:09:03] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:03] El demogorgon D0000 ataca a niño N0032.
-[2026-04-27 18:09:03] El niño N0031 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:03] El niño N0086 se une a la batalla
-[2026-04-27 18:09:03] El niño N0086 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:03] El niño N0086 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:04] El niño N0027 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:04] El niño N0009 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:04] El demogorgon D0001 se dirige al Laboratorio
-[2026-04-27 18:09:04] El demogorgon D0001 ataca a niño N0009.
-[2026-04-27 18:09:04] El niño N0029 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:04] El ataque de D0000 a N0032 ha fallado.(Capturas: 11)
-[2026-04-27 18:09:04] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:04] El demogorgon D0000 ataca a niño N0032.
-[2026-04-27 18:09:04] El niño N0046 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:05] El niño N0086 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:05] El niño N0023 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:05] El niño N0087 se une a la batalla
-[2026-04-27 18:09:05] El niño N0087 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:05] El niño N0087 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:05] El niño N0033 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:05] El niño N0027 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:05] El niño N0085 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:05] El niño N0027 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:05] El ataque de D0001 a N0009 ha sido realizado correctamente.(Capturas: 2)
-[2026-04-27 18:09:05] El demogorgon D0001 se dirige al Bosque
-[2026-04-27 18:09:05] El niño N0088 se une a la batalla
-[2026-04-27 18:09:05] El niño N0088 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:05] El niño N0088 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:06] El ataque de D0000 a N0032 ha fallado.(Capturas: 11)
-[2026-04-27 18:09:06] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:09:06] El demogorgon D0000 ataca a niño N0033.
-[2026-04-27 18:09:06] El niño N0011 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:06] El niño N0035 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:06] El niño N0023 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:06] El niño N0081 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:06] El niño N0023 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:06] El niño N0082 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:06] El niño N0086 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:06] El niño N0087 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:07] El niño N0032 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:07] El ataque de D0000 a N0033 ha fallado.(Capturas: 11)
-[2026-04-27 18:09:07] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:09:07] El niño N0089 se une a la batalla
-[2026-04-27 18:09:07] El niño N0089 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:07] El niño N0089 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:07] El niño N0032 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:07] El niño N0032 deposita uno de sangre en el bote, llevan por ahora 42
-[2026-04-27 18:09:07] El niño N0088 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:07] El niño N0090 se une a la batalla
-[2026-04-27 18:09:07] El niño N0090 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:07] El niño N0090 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:07] El niño N0049 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:08] El niño N0046 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:08] El niño N0046 deposita uno de sangre en el bote, llevan por ahora 43
-[2026-04-27 18:09:08] El niño N0029 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:08] El niño N0091 se une a la batalla
-[2026-04-27 18:09:08] El niño N0091 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:08] El niño N0091 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:08] El niño N0089 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:08] El niño N0031 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:08] El niño N0078 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:08] El niño N0089 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:09] El niño N0009 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:09:09] El niño N0047 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:09] El niño N0049 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:09] El niño N0090 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:09] El niño N0091 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:09] El niño N0091 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:09] El niño N0049 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:10] El niño N0029 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:10] El niño N0029 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:10] El niño N0087 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:10] El niño N0033 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:10] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:09:10] El demogorgon D0001 ataca a niño N0011.
-[2026-04-27 18:09:10] El niño N0035 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:10] El niño N0035 deposita uno de sangre en el bote, llevan por ahora 44
-[2026-04-27 18:09:10] El niño N0092 se une a la batalla
-[2026-04-27 18:09:10] El niño N0092 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:10] El niño N0092 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:10] El niño N0032 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:10] El niño N0011 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:11] El ataque de D0001 a N0011 ha fallado.(Capturas: 2)
-[2026-04-27 18:09:11] El demogorgon D0001 se dirige al Laboratorio
-[2026-04-27 18:09:11] El niño N0034 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:11] El niño N0046 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:11] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:09:11] El demogorgon D0000 ataca a niño N0047.
-[2026-04-27 18:09:12] El niño N0093 se une a la batalla
-[2026-04-27 18:09:12] El niño N0093 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:12] El niño N0093 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:12] El niño N0065 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:12] El niño N0092 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:12] El niño N0035 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:13] El ataque de D0000 a N0047 ha fallado.(Capturas: 11)
-[2026-04-27 18:09:13] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:09:13] El demogorgon D0000 ataca a niño N0011.
-[2026-04-27 18:09:13] El niño N0033 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:13] El niño N0033 deposita uno de sangre en el bote, llevan por ahora 45
-[2026-04-27 18:09:13] El niño N0047 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:13] El niño N0032 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:13] El niño N0094 se une a la batalla
-[2026-04-27 18:09:13] El niño N0094 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:13] El niño N0094 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:13] El niño N0093 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:14] El ataque de D0000 a N0011 ha sido realizado correctamente.(Capturas: 12)
-[2026-04-27 18:09:14] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:14] El demogorgon D0000 ataca a niño N0034.
-[2026-04-27 18:09:14] El niño N0011 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:14] El niño N0011 ha vuelto sin sangre
-[2026-04-27 18:09:14] El niño N0034 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:15] El niño N0094 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:15] El ataque de D0000 a N0034 ha fallado.(Capturas: 12)
-[2026-04-27 18:09:15] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:15] El demogorgon D0000 ataca a niño N0034.
-[2026-04-27 18:09:15] El demogorgon D0001 se dirige al Bosque
-[2026-04-27 18:09:15] El niño N0046 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:15] El niño N0034 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:15] El niño N0034 deposita uno de sangre en el bote, llevan por ahora 46
-[2026-04-27 18:09:15] El niño N0095 se une a la batalla
-[2026-04-27 18:09:15] El niño N0095 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:15] El niño N0095 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:15] El niño N0032 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:15] El niño N0090 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:15] El niño N0094 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:15] El niño N0032 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:15] El niño N0035 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:16] El niño N0028 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:16] El niño N0046 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:16] El ataque de D0000 a N0034 ha fallado.(Capturas: 12)
-[2026-04-27 18:09:16] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:09:16] El niño N0065 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:17] El niño N0096 se une a la batalla
-[2026-04-27 18:09:17] El niño N0096 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:17] El niño N0096 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:17] El niño N0033 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:17] El niño N0095 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:17] El niño N0093 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:17] El niño N0095 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:17] El niño N0047 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:17] El niño N0047 deposita uno de sangre en el bote, llevan por ahora 47
-[2026-04-27 18:09:17] El niño N0035 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:17] El niño N0011 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:17] El niño N0034 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:18] El niño N0042 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:18] El niño N0096 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:18] El niño N0035 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:18] El niño N0096 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:18] El niño N0097 se une a la batalla
-[2026-04-27 18:09:18] El niño N0097 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:18] El niño N0097 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:19] El niño N0036 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:19] El niño N0098 se une a la batalla
-[2026-04-27 18:09:19] El niño N0098 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:19] El niño N0098 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:19] El niño N0097 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:19] El niño N0088 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:19] El niño N0092 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:19] El niño N0046 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:19] El niño N0097 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:19] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:09:19] El demogorgon D0001 ataca a niño N0042.
-[2026-04-27 18:09:19] El niño N0047 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:20] El niño N0065 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:20] El niño N0065 deposita uno de sangre en el bote, llevan por ahora 48
-[2026-04-27 18:09:20] El niño N0028 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:20] El niño N0098 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:21] El niño N0099 se une a la batalla
-[2026-04-27 18:09:21] El niño N0099 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:21] El niño N0099 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:21] El niño N0041 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:21] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:21] El demogorgon D0000 ataca a niño N0036.
-[2026-04-27 18:09:21] El ataque de D0001 a N0042 ha sido realizado correctamente.(Capturas: 3)
-[2026-04-27 18:09:21] El demogorgon D0001 se dirige al Laboratorio
-[2026-04-27 18:09:22] El niño N0033 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:22] El niño N0099 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:22] El niño N0040 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:22] El niño N0011 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:22] El niño N0100 se une a la batalla
-[2026-04-27 18:09:22] El niño N0100 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:22] El niño N0100 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:22] El ataque de D0000 a N0036 ha fallado.(Capturas: 12)
-[2026-04-27 18:09:22] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:22] El demogorgon D0000 ataca a niño N0034.
-[2026-04-27 18:09:22] El niño N0042 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:09:22] El niño N0034 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:23] El niño N0033 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:23] El niño N0038 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:23] El niño N0065 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:23] El niño N0011 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:23] El niño N0101 se une a la batalla
-[2026-04-27 18:09:23] El niño N0101 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:23] El niño N0101 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:23] El niño N0047 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:23] El niño N0036 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:24] El ataque de D0000 a N0034 ha fallado.(Capturas: 12)
-[2026-04-27 18:09:24] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:09:24] El niño N0034 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:24] El niño N0102 se une a la batalla
-[2026-04-27 18:09:24] El niño N0102 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:24] El niño N0102 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:24] El niño N0028 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:24] El niño N0028 deposita uno de sangre en el bote, llevan por ahora 49
-[2026-04-27 18:09:24] El niño N0100 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:24] El niño N0098 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:24] El niño N0033 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:24] El niño N0034 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:24] El niño N0100 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:25] El niño N0010 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:25] El niño N0103 se une a la batalla
-[2026-04-27 18:09:25] El niño N0103 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:25] El niño N0103 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:25] El niño N0041 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:25] El niño N0101 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:25] El niño N0101 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:25] El niño N0099 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:25] El niño N0047 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:25] El niño N0040 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:25] El demogorgon D0001 se dirige al Laboratorio
-[2026-04-27 18:09:26] El niño N0102 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:26] El niño N0104 se une a la batalla
-[2026-04-27 18:09:26] El niño N0104 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:26] El niño N0104 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:26] El niño N0040 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:26] El niño N0040 deposita uno de sangre en el bote, llevan por ahora 50
-[2026-04-27 18:09:26] El niño N0038 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:26] El niño N0065 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:27] El niño N0036 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:27] El niño N0036 deposita uno de sangre en el bote, llevan por ahora 51
-[2026-04-27 18:09:27] El niño N0103 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:27] El niño N0028 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:27] El niño N0105 se une a la batalla
-[2026-04-27 18:09:27] El niño N0105 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:27] El niño N0105 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:27] El niño N0104 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:28] El niño N0065 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:28] El niño N0065 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:28] El niño N0104 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:28] El niño N0011 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:28] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:09:28] El demogorgon D0000 ataca a niño N0010.
-[2026-04-27 18:09:28] El niño N0061 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:28] El ataque de D0000 a N0010 ha fallado.(Capturas: 12)
-[2026-04-27 18:09:28] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:09:28] El demogorgon D0000 ataca a niño N0061.
-[2026-04-27 18:09:29] El niño N0041 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:29] El niño N0041 deposita uno de sangre en el bote, llevan por ahora 52
-[2026-04-27 18:09:29] El niño N0106 se une a la batalla
-[2026-04-27 18:09:29] El niño N0106 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:29] El niño N0106 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:29] El ataque de D0000 a N0061 ha fallado.(Capturas: 12)
-[2026-04-27 18:09:29] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:09:29] El niño N0105 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:29] El niño N0105 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:29] El niño N0103 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:29] El niño N0036 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:30] El niño N0040 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:30] El niño N0010 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:30] El niño N0017 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:30] El demogorgon D0001 se dirige al Laboratorio
-[2026-04-27 18:09:30] El demogorgon D0001 ataca a niño N0061.
-[2026-04-27 18:09:30] El niño N0028 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:31] El niño N0038 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:31] El niño N0038 deposita uno de sangre en el bote, llevan por ahora 53
-[2026-04-27 18:09:31] El niño N0107 se une a la batalla
-[2026-04-27 18:09:31] El niño N0107 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:31] El niño N0107 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:31] El niño N0061 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:31] El niño N0106 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:31] El niño N0106 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:31] El niño N0047 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:31] El niño N0108 se une a la batalla
-[2026-04-27 18:09:31] El niño N0108 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:31] El niño N0108 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:32] El ataque de D0001 a N0061 ha fallado.(Capturas: 3)
-[2026-04-27 18:09:32] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:09:32] El demogorgon D0001 ataca a niño N0017.
-[2026-04-27 18:09:32] El niño N0061 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:32] El niño N0061 deposita uno de sangre en el bote, llevan por ahora 54
-[2026-04-27 18:09:32] El niño N0107 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:32] El niño N0028 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:32] El niño N0028 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:32] El niño N0107 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:32] El niño N0109 se une a la batalla
-[2026-04-27 18:09:32] El niño N0109 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:32] El niño N0109 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:32] El ataque de D0001 a N0017 ha fallado.(Capturas: 3)
-[2026-04-27 18:09:32] El demogorgon D0001 se dirige al Bosque
-[2026-04-27 18:09:32] El demogorgon D0001 ataca a niño N0034.
-[2026-04-27 18:09:32] El niño N0036 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:33] El niño N0041 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:33] El niño N0108 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:33] El niño N0010 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:33] El niño N0010 deposita uno de sangre en el bote, llevan por ahora 55
-[2026-04-27 18:09:33] El niño N0040 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:33] El niño N0110 se une a la batalla
-[2026-04-27 18:09:33] El niño N0110 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:33] El niño N0110 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:33] El niño N0038 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:33] El ataque de D0001 a N0034 ha fallado.(Capturas: 3)
-[2026-04-27 18:09:33] El demogorgon D0001 se dirige al Bosque
-[2026-04-27 18:09:33] El demogorgon D0001 ataca a niño N0034.
-[2026-04-27 18:09:34] El niño N0109 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:34] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:09:34] El demogorgon D0000 ataca a niño N0061.
-[2026-04-27 18:09:34] El niño N0014 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:34] El niño N0111 se une a la batalla
-[2026-04-27 18:09:34] El niño N0111 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:34] El niño N0111 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:34] El niño N0036 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:34] El ataque de D0001 a N0034 ha fallado.(Capturas: 3)
-[2026-04-27 18:09:34] El demogorgon D0001 se dirige al Bosque
-[2026-04-27 18:09:34] El demogorgon D0001 ataca a niño N0034.
-[2026-04-27 18:09:34] El niño N0061 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:34] El niño N0040 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:34] El niño N0040 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:34] El niño N0109 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:34] El niño N0110 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:35] El niño N0017 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:35] El niño N0003 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:35] El ataque de D0000 a N0061 ha fallado.(Capturas: 12)
-[2026-04-27 18:09:35] El demogorgon D0000 se dirige al Alcantarillado
-[2026-04-27 18:09:35] El demogorgon D0000 ataca a niño N0014.
-[2026-04-27 18:09:36] El niño N0111 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:36] El ataque de D0001 a N0034 ha sido realizado correctamente.(Capturas: 4)
-[2026-04-27 18:09:36] El demogorgonD0002 se une a la batalla
-[2026-04-27 18:09:36] El demogorgon D0001 se dirige al Laboratorio
-[2026-04-27 18:09:36] El demogorgon D0001 ataca a niño N0061.
-[2026-04-27 18:09:36] El demogorgon D0002 se dirige al Bosque
-[2026-04-27 18:09:36] El demogorgon D0002 ataca a niño N0003.
-[2026-04-27 18:09:36] El niño N0024 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:36] El niño N0112 se une a la batalla
-[2026-04-27 18:09:36] El niño N0112 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:36] El niño N0112 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:36] El niño N0041 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:36] El ataque de D0000 a N0014 ha fallado.(Capturas: 12)
-[2026-04-27 18:09:36] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:09:36] El demogorgon D0000 ataca a niño N0024.
-[2026-04-27 18:09:36] El ataque de D0001 a N0061 ha fallado.(Capturas: 4)
-[2026-04-27 18:09:36] El demogorgon D0001 se dirige al Laboratorio
-[2026-04-27 18:09:36] El demogorgon D0001 ataca a niño N0061.
-[2026-04-27 18:09:37] El niño N0010 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:37] El niño N0045 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:37] El ataque de D0002 a N0003 ha fallado.(Capturas: 0)
-[2026-04-27 18:09:37] El demogorgon D0002 se dirige al Laboratorio
-[2026-04-27 18:09:37] El niño N0038 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:37] El niño N0113 se une a la batalla
-[2026-04-27 18:09:37] El niño N0113 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:37] El niño N0113 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:37] El ataque de D0000 a N0024 ha sido realizado correctamente.(Capturas: 13)
-[2026-04-27 18:09:37] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:37] El demogorgon D0000 ataca a niño N0003.
-[2026-04-27 18:09:37] El ataque de D0001 a N0061 ha fallado.(Capturas: 4)
-[2026-04-27 18:09:37] El demogorgon D0001 se dirige al Centro Comercial
-[2026-04-27 18:09:37] El demogorgon D0001 ataca a niño N0045.
-[2026-04-27 18:09:38] El niño N0061 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:38] El niño N0014 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:38] El niño N0017 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:38] El niño N0017 deposita uno de sangre en el bote, llevan por ahora 56
-[2026-04-27 18:09:38] El niño N0112 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:38] El niño N0041 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:38] El niño N0041 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:38] El niño N0111 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:38] El ataque de D0000 a N0003 ha fallado.(Capturas: 13)
-[2026-04-27 18:09:38] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:38] El demogorgon D0000 ataca a niño N0003.
-[2026-04-27 18:09:38] El niño N0114 se une a la batalla
-[2026-04-27 18:09:38] El niño N0114 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:38] El niño N0114 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:38] El ataque de D0001 a N0045 ha fallado.(Capturas: 4)
-[2026-04-27 18:09:38] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:09:39] El niño N0113 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:39] El niño N0113 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:39] El niño N0102 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:39] El niño N0036 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:39] El niño N0112 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:39] El niño N0038 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:39] El niño N0061 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:39] El niño N0061 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:39] El niño N0038 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:39] El niño N0039 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:40] El niño N0115 se une a la batalla
-[2026-04-27 18:09:40] El niño N0115 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:40] El niño N0115 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:40] El niño N0003 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:09:40] El ataque de D0000 a N0003 ha sido realizado correctamente.(Capturas: 14)
-[2026-04-27 18:09:40] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:09:40] El demogorgon D0000 ataca a niño N0061.
-[2026-04-27 18:09:40] El niño N0012 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:40] El niño N0114 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:40] El niño N0045 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:41] El niño N0017 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:41] El niño N0115 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:41] El niño N0024 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:09:41] El niño N0045 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:41] El niño N0045 deposita uno de sangre en el bote, llevan por ahora 57
-[2026-04-27 18:09:41] El niño N0116 se une a la batalla
-[2026-04-27 18:09:41] El niño N0116 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:41] El niño N0116 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:41] El ataque de D0000 a N0061 ha fallado.(Capturas: 14)
-[2026-04-27 18:09:41] El demogorgon D0000 se dirige al Laboratorio
-[2026-04-27 18:09:41] El demogorgon D0000 ataca a niño N0061.
-[2026-04-27 18:09:42] El niño N0117 se une a la batalla
-[2026-04-27 18:09:42] El niño N0117 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:42] El niño N0117 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:42] El demogorgon D0002 se dirige al Laboratorio
-[2026-04-27 18:09:42] El demogorgon D0002 ataca a niño N0012.
-[2026-04-27 18:09:42] El niño N0010 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:42] El niño N0014 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:42] El niño N0014 deposita uno de sangre en el bote, llevan por ahora 58
-[2026-04-27 18:09:43] El niño N0116 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:43] El niño N0116 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:43] El niño N0108 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:43] El niño N0110 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:43] El ataque de D0000 a N0061 ha sido realizado correctamente.(Capturas: 15)
-[2026-04-27 18:09:43] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:09:43] El niño N0050 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:43] El niño N0012 ha sido atrapado por un demogorgon, actualmente en la colmena
-[2026-04-27 18:09:43] El niño N0012 ha sido liberado de la colmena
-[2026-04-27 18:09:43] El niño N0012 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:43] El niño N0012 ha vuelto sin sangre
-[2026-04-27 18:09:43] El niño N0039 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:43] El demogorgon D0001 se dirige al Centro Comercial
-[2026-04-27 18:09:43] El ataque de D0002 a N0012 ha sido realizado correctamente.(Capturas: 1)
-[2026-04-27 18:09:43] El demogorgon D0002 se dirige al Bosque
-[2026-04-27 18:09:43] El demogorgon D0002 ataca a niño N0050.
-[2026-04-27 18:09:43] El niño N0010 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:43] El niño N0118 se une a la batalla
-[2026-04-27 18:09:43] El niño N0118 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:43] El niño N0118 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:44] El niño N0117 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:44] El niño N0067 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:44] El niño N0045 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:44] El ataque de D0002 a N0050 ha fallado.(Capturas: 1)
-[2026-04-27 18:09:44] El demogorgon D0002 se dirige al Alcantarillado
-[2026-04-27 18:09:45] El niño N0017 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:45] El niño N0059 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:45] El niño N0119 se une a la batalla
-[2026-04-27 18:09:45] El niño N0119 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:45] El niño N0119 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:45] El niño N0118 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:46] El niño N0017 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:46] El niño N0014 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:46] El niño N0048 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:46] El niño N0119 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:46] El niño N0119 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:46] El niño N0114 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:47] El niño N0012 irá a la calle principal durante 5 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:47] El niño N0120 se une a la batalla
-[2026-04-27 18:09:47] El niño N0120 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:47] El niño N0120 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:47] El niño N0039 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:47] El niño N0039 deposita uno de sangre en el bote, llevan por ahora 59
-[2026-04-27 18:09:47] El niño N0067 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:47] El demogorgon D0000 se dirige al Bosque
-[2026-04-27 18:09:47] El demogorgon D0000 ataca a niño N0050.
-[2026-04-27 18:09:47] El niño N0050 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:47] El demogorgon D0001 se dirige al Centro Comercial
-[2026-04-27 18:09:47] El demogorgon D0001 ataca a niño N0059.
-[2026-04-27 18:09:48] El niño N0121 se une a la batalla
-[2026-04-27 18:09:48] El niño N0121 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:48] El niño N0121 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:48] El niño N0067 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:48] El niño N0067 deposita uno de sangre en el bote, llevan por ahora 60
-[2026-04-27 18:09:48] El ataque de D0001 a N0059 ha fallado.(Capturas: 4)
-[2026-04-27 18:09:48] El demogorgon D0001 se dirige al Alcantarillado
-[2026-04-27 18:09:48] El demogorgon D0001 ataca a niño N0048.
-[2026-04-27 18:09:48] ***EMPIEZA EL EVENTO INTERVENCION DE ELEVEN***
-[2026-04-27 18:09:49] El niño N0122 se une a la batalla
-[2026-04-27 18:09:49] El niño N0122 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:49] El niño N0122 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:49] El niño N0120 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:49] El niño N0016 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:49] El niño N0045 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:49] El niño N0121 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:49] El niño N0121 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:49] El niño N0115 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:49] El niño N0017 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:49] El niño N0117 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:49] El ataque de D0000 a N0050 ha fallado.(Capturas: 15)
-[2026-04-27 18:09:49] El niño N0059 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:49] El ataque de D0001 a N0048 ha fallado.(Capturas: 4)
-[2026-04-27 18:09:49] El niño N0048 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:50] El niño N0014 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:50] El niño N0123 se une a la batalla
-[2026-04-27 18:09:50] El niño N0123 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:50] El niño N0123 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:50] El niño N0048 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:50] El niño N0048 deposita uno de sangre en el bote, llevan por ahora 61
-[2026-04-27 18:09:50] El niño N0045 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:50] El niño N0122 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:50] El niño N0039 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:51] El niño N0124 se une a la batalla
-[2026-04-27 18:09:51] El niño N0124 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:51] El niño N0124 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:51] Eleven ha liberado a 20 niños
-[2026-04-27 18:09:51] El niño N0000 ha sido liberado de la colmena
-[2026-04-27 18:09:51] El niño N0021 ha sido liberado de la colmena
-[2026-04-27 18:09:51] El niño N0000 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:51] El niño N0000 ha vuelto sin sangre
-[2026-04-27 18:09:51] El niño N0009 ha sido liberado de la colmena
-[2026-04-27 18:09:51] El niño N0009 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:51] El niño N0009 ha vuelto sin sangre
-[2026-04-27 18:09:51] El niño N0042 ha sido liberado de la colmena
-[2026-04-27 18:09:51] El niño N0042 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:51] El niño N0042 ha vuelto sin sangre
-[2026-04-27 18:09:51] El niño N0003 ha sido liberado de la colmena
-[2026-04-27 18:09:51] El niño N0003 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:51] El niño N0003 ha vuelto sin sangre
-[2026-04-27 18:09:51] El niño N0021 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:51] El niño N0021 ha vuelto sin sangre
-[2026-04-27 18:09:51] El niño N0024 ha sido liberado de la colmena
-[2026-04-27 18:09:51] El niño N0024 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:51] El niño N0024 ha vuelto sin sangre
-[2026-04-27 18:09:51] El niño N0008 ha sido liberado de la colmena
-[2026-04-27 18:09:51] El niño N0008 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:51] El niño N0008 ha vuelto sin sangre
-[2026-04-27 18:09:51] El niño N0013 ha sido liberado de la colmena
-[2026-04-27 18:09:51] El niño N0013 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:51] El niño N0013 ha vuelto sin sangre
-[2026-04-27 18:09:51] El niño N0050 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:51] El niño N0050 deposita uno de sangre en el bote, llevan por ahora 42
-[2026-04-27 18:09:51] El niño N0014 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:51] El niño N0123 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:52] El niño N0067 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:52] El niño N0012 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:52] El niño N0025 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:53] El niño N0016 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:53] El niño N0124 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:53] El niño N0124 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:53] El niño N0122 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:53] El niño N0014 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:53] El niño N0123 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:53] El niño N0125 se une a la batalla
-[2026-04-27 18:09:53] El niño N0125 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:53] El niño N0125 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:53] El niño N0059 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:53] El niño N0059 deposita uno de sangre en el bote, llevan por ahora 43
-[2026-04-27 18:09:53] El niño N0042 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:53] El niño N0012 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:53] El niño N0012 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:53] El niño N0045 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:53] El niño N0118 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:53] El niño N0008 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:53] El niño N0003 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:53] El niño N0048 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:53] El niño N0126 se une a la batalla
-[2026-04-27 18:09:53] El niño N0126 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:53] El niño N0126 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:54] El niño N0026 ha pasado al upside down permanecerá allí 3 segundos.
-[2026-04-27 18:09:54] El niño N0024 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:54] El niño N0039 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:54] El niño N0009 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:55] El niño N0021 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:55] El niño N0125 irá hacia al bosque, esperando su equipo.
-[2026-04-27 18:09:55] El niño N0125 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:55] El niño N0120 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:55] El niño N0050 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:55] El niño N0013 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:55] El niño N0000 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:55] El niño N0052 ha pasado al upside down permanecerá allí 4 segundos.
-[2026-04-27 18:09:55] El niño N0025 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:55] El niño N0127 se une a la batalla
-[2026-04-27 18:09:55] El niño N0127 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:55] El niño N0127 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:55] El niño N0126 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:55] El niño N0128 se une a la batalla
-[2026-04-27 18:09:55] El niño N0128 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:55] El niño N0128 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:56] El niño N0039 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:56] El niño N0010 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:56] El niño N0039 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:56] El niño N0025 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:56] El niño N0025 deposita uno de sangre en el bote, llevan por ahora 44
-[2026-04-27 18:09:56] El niño N0127 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:56] El niño N0067 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:56] El niño N0129 se une a la batalla
-[2026-04-27 18:09:56] El niño N0129 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:56] El niño N0129 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:57] El niño N0059 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:57] El niño N0016 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:57] El niño N0016 deposita uno de sangre en el bote, llevan por ahora 45
-[2026-04-27 18:09:57] El niño N0024 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:57] El niño N0026 está en el portal del upside down, esperando a poder pasar
-[2026-04-27 18:09:57] El niño N0048 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:57] El niño N0009 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:57] El niño N0128 irá hacia al laboratorio, esperando su equipo.
-[2026-04-27 18:09:57] El niño N0128 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:57] El niño N0126 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:57] El niño N0127 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:58] El niño N0003 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:58] El niño N0008 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:58] El niño N0067 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:58] El niño N0026 ha vuelto del upside down, reportará a radio WSQK
-[2026-04-27 18:09:58] El niño N0026 deposita uno de sangre en el bote, llevan por ahora 46
-[2026-04-27 18:09:58] El niño N0042 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:58] El niño N0129 irá hacia al alcantarillado, esperando su equipo.
-[2026-04-27 18:09:58] El niño N0067 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:58] El niño N0129 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
-[2026-04-27 18:09:58] El niño N0025 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
-[2026-04-27 18:09:58] ***TERMINA EL EVENTO INTERVENCION DE ELEVEN***
-[2026-04-27 18:09:58] El demogorgon D0000 se dirige al Centro Comercial
-[2026-04-27 18:09:58] El demogorgon D0001 se dirige al Laboratorio
-[2026-04-27 18:09:58] El demogorgon D0002 se dirige al Centro Comercial
-[2026-04-27 18:09:58] El niño N0050 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
-[2026-04-27 18:09:58] El niño N0024 irá hacia al centro comercial, esperando su equipo.
-[2026-04-27 18:09:58] El niño N0130 se une a la batalla
-[2026-04-27 18:09:58] El niño N0130 ha llegado a la calle principal de Hawkings
-[2026-04-27 18:09:58] El niño N0130 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:27:49] ***Empieza la batalla de hawkings.***
+[2026-05-06 04:27:49] Registro RMI iniciado en el puerto 1099
+[2026-05-06 04:27:49] Servidor RMI disponible en rmi://localhost:1099/HawkinsService
+[2026-05-06 04:27:49] El demogorgon Alpha D0000 ha sido creado
+[2026-05-06 04:27:49] El demogorgon D0000 se dirige al Centro Comercial
+[2026-05-06 04:27:49] El niño N0000 se une a la batalla
+[2026-05-06 04:27:49] El niño N0000 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:27:49] El niño N0000 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:27:51] El niño N0000 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:27:51] El niño N0001 se une a la batalla
+[2026-05-06 04:27:51] El niño N0001 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:27:51] El niño N0001 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:27:52] El niño N0002 se une a la batalla
+[2026-05-06 04:27:52] El niño N0002 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:27:52] El niño N0002 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:27:53] El niño N0001 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:27:53] El niño N0003 se une a la batalla
+[2026-05-06 04:27:53] El niño N0003 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:27:53] El niño N0003 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:27:53] El niño N0002 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:27:53] El demogorgon D0000 se dirige al Centro Comercial
+[2026-05-06 04:27:54] El niño N0004 se une a la batalla
+[2026-05-06 04:27:54] El niño N0004 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:27:54] El niño N0004 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:27:55] El niño N0003 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:27:55] El niño N0004 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:27:55] El niño N0005 se une a la batalla
+[2026-05-06 04:27:55] El niño N0005 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:27:55] El niño N0005 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:27:57] El niño N0006 se une a la batalla
+[2026-05-06 04:27:57] El niño N0006 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:27:57] El niño N0006 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:27:57] El niño N0005 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:27:57] El niño N0004 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:27:57] El niño N0005 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:27:57] El niño N0005 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:27:58] El demogorgon D0000 se dirige al Bosque
+[2026-05-06 04:27:58] El niño N0004 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:27:58] El niño N0006 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:27:58] El niño N0007 se une a la batalla
+[2026-05-06 04:27:58] El niño N0007 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:27:58] El niño N0007 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:00] El niño N0007 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:00] El niño N0000 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:00] El niño N0007 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:00] El niño N0007 ha pasado al upside down permanecerá allí 3 segundos.
+[2026-05-06 04:28:00] El niño N0008 se une a la batalla
+[2026-05-06 04:28:00] El niño N0008 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:00] El niño N0008 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:01] El niño N0005 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:01] El niño N0005 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:01] El niño N0005 deposita uno de sangre en el bote, llevan por ahora 1
+[2026-05-06 04:28:02] El niño N0009 se une a la batalla
+[2026-05-06 04:28:02] El niño N0009 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:02] El niño N0009 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:02] El niño N0008 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:02] El niño N0000 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:02] El demogorgon D0000 se dirige al Laboratorio
+[2026-05-06 04:28:02] El niño N0004 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:03] El niño N0010 se une a la batalla
+[2026-05-06 04:28:03] El niño N0010 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:03] El niño N0010 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:03] El niño N0004 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:03] El niño N0004 deposita uno de sangre en el bote, llevan por ahora 2
+[2026-05-06 04:28:03] El niño N0005 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:03] El niño N0009 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:03] El niño N0006 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:03] El niño N0009 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:04] El niño N0011 se une a la batalla
+[2026-05-06 04:28:04] El niño N0011 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:04] El niño N0011 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:04] El niño N0007 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:04] El niño N0007 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:04] El niño N0007 deposita uno de sangre en el bote, llevan por ahora 3
+[2026-05-06 04:28:04] El niño N0012 se une a la batalla
+[2026-05-06 04:28:04] El niño N0012 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:04] El niño N0012 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:04] El niño N0010 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:05] El niño N0011 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:05] El niño N0001 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:05] El niño N0003 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:05] El niño N0010 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:05] El niño N0011 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:05] El niño N0001 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:06] El niño N0012 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:06] El niño N0008 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:06] El niño N0012 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:06] El niño N0006 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:06] El niño N0013 se une a la batalla
+[2026-05-06 04:28:06] El niño N0013 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:06] El niño N0013 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:06] El niño N0004 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:07] El demogorgon D0000 se dirige al Alcantarillado
+[2026-05-06 04:28:07] El demogorgon D0000 ataca a niño N0006.
+[2026-05-06 04:28:07] El niño N0007 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:07] El niño N0000 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:07] El niño N0000 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:07] El niño N0000 deposita uno de sangre en el bote, llevan por ahora 4
+[2026-05-06 04:28:08] El ataque de D0000 a N0006 ha fallado.(Capturas: 0)
+[2026-05-06 04:28:08] El demogorgon D0000 se dirige al Bosque
+[2026-05-06 04:28:08] El niño N0013 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:08] El niño N0014 se une a la batalla
+[2026-05-06 04:28:08] El niño N0014 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:08] El niño N0014 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:08] El niño N0003 ha pasado al upside down permanecerá allí 3 segundos.
+[2026-05-06 04:28:08] El niño N0005 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:09] El niño N0009 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:09] El niño N0015 se une a la batalla
+[2026-05-06 04:28:09] El niño N0015 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:09] El niño N0015 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:10] El niño N0014 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:10] El niño N0001 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:10] El niño N0004 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:10] El niño N0008 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:10] El niño N0005 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:10] El niño N0005 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:10] El niño N0014 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:10] El niño N0006 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:11] El niño N0015 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:11] El niño N0000 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:11] El niño N0001 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:11] El niño N0001 deposita uno de sangre en el bote, llevan por ahora 5
+[2026-05-06 04:28:11] El niño N0003 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:11] El niño N0016 se une a la batalla
+[2026-05-06 04:28:11] El niño N0016 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:11] El niño N0016 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:11] El niño N0004 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:11] El niño N0002 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:11] El niño N0015 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:11] El niño N0004 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:12] El niño N0007 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:12] El niño N0006 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:12] El niño N0006 deposita uno de sangre en el bote, llevan por ahora 6
+[2026-05-06 04:28:12] El demogorgon D0000 se dirige al Alcantarillado
+[2026-05-06 04:28:12] El demogorgon D0000 ataca a niño N0009.
+[2026-05-06 04:28:12] El niño N0017 se une a la batalla
+[2026-05-06 04:28:12] El niño N0017 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:12] El niño N0017 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:13] El niño N0012 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:13] El niño N0001 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:13] El niño N0016 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:13] El niño N0016 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:13] El niño N0013 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:13] El ataque de D0000 a N0009 ha fallado.(Capturas: 0)
+[2026-05-06 04:28:13] El demogorgon D0000 se dirige al Bosque
+[2026-05-06 04:28:13] El demogorgon D0000 ataca a niño N0012.
+[2026-05-06 04:28:14] El niño N0007 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:14] El niño N0018 se une a la batalla
+[2026-05-06 04:28:14] El niño N0018 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:14] El niño N0018 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:14] El niño N0009 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:14] El niño N0002 ha pasado al upside down permanecerá allí 3 segundos.
+[2026-05-06 04:28:14] El niño N0017 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:14] El niño N0008 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:14] El niño N0019 se une a la batalla
+[2026-05-06 04:28:14] El niño N0019 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:14] El niño N0019 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:15] El niño N0006 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:15] El ataque de D0000 a N0012 ha fallado.(Capturas: 0)
+[2026-05-06 04:28:15] El demogorgon D0000 se dirige al Bosque
+[2026-05-06 04:28:15] El demogorgon D0000 ataca a niño N0012.
+[2026-05-06 04:28:15] El niño N0003 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:15] El niño N0003 deposita uno de sangre en el bote, llevan por ahora 7
+[2026-05-06 04:28:15] El niño N0018 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:16] El niño N0000 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:16] El niño N0019 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:16] El ataque de D0000 a N0012 ha sido realizado correctamente.(Capturas: 1)
+[2026-05-06 04:28:16] El demogorgon D0000 se dirige al Centro Comercial
+[2026-05-06 04:28:16] El niño N0009 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:16] El niño N0009 deposita uno de sangre en el bote, llevan por ahora 8
+[2026-05-06 04:28:16] El niño N0020 se une a la batalla
+[2026-05-06 04:28:16] El niño N0020 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:16] El niño N0020 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:16] El niño N0001 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:17] El niño N0008 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:17] El niño N0008 deposita uno de sangre en el bote, llevan por ahora 9
+[2026-05-06 04:28:17] El niño N0021 se une a la batalla
+[2026-05-06 04:28:17] El niño N0021 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:17] El niño N0021 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:17] El niño N0020 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:17] El niño N0020 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:17] El niño N0007 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:17] El niño N0012 ha sido atrapado por un demogorgon, actualmente en la colmena
+[2026-05-06 04:28:17] El niño N0000 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:18] El niño N0002 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:18] El niño N0003 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:18] El niño N0002 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:18] El niño N0002 deposita uno de sangre en el bote, llevan por ahora 10
+[2026-05-06 04:28:18] El niño N0001 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:18] El niño N0021 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:18] El niño N0022 se une a la batalla
+[2026-05-06 04:28:18] El niño N0022 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:18] El niño N0022 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:19] El niño N0009 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:19] El niño N0010 ha pasado al upside down permanecerá allí 3 segundos.
+[2026-05-06 04:28:19] El niño N0006 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:19] El niño N0022 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:19] El niño N0021 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:19] El niño N0017 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:19] El niño N0022 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:20] El niño N0023 se une a la batalla
+[2026-05-06 04:28:20] El niño N0023 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:20] El niño N0023 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:20] El niño N0016 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:20] El demogorgon D0000 se dirige al Centro Comercial
+[2026-05-06 04:28:20] El demogorgon D0000 ataca a niño N0010.
+[2026-05-06 04:28:20] El niño N0002 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:20] El niño N0006 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:20] El niño N0006 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:20] El niño N0019 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:21] ***EMPIEZA EL EVENTO INTERVENCION DE ELEVEN***
+[2026-05-06 04:28:21] El niño N0008 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:21] Eleven ha liberado a 1 niños
+[2026-05-06 04:28:21] El niño N0012 ha sido liberado de la colmena
+[2026-05-06 04:28:21] El niño N0012 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:21] El niño N0012 ha vuelto sin sangre
+[2026-05-06 04:28:21] El niño N0005 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:21] El niño N0023 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:22] El niño N0024 se une a la batalla
+[2026-05-06 04:28:22] El niño N0024 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:22] El niño N0024 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:22] El ataque de D0000 a N0010 ha sido realizado correctamente.(Capturas: 2)
+[2026-05-06 04:28:22] El niño N0015 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:22] El niño N0003 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:23] El niño N0010 ha sido atrapado por un demogorgon, actualmente en la colmena
+[2026-05-06 04:28:23] El niño N0025 se une a la batalla
+[2026-05-06 04:28:23] El niño N0025 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:23] El niño N0025 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:23] El niño N0011 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:23] El niño N0003 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:23] El niño N0003 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:23] El niño N0000 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:24] El niño N0024 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:24] El niño N0009 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:24] El niño N0025 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:24] El niño N0008 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:24] El niño N0013 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:24] El niño N0002 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:24] El niño N0012 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:24] El niño N0016 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:25] El niño N0026 se une a la batalla
+[2026-05-06 04:28:25] El niño N0026 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:25] El niño N0026 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:25] Eleven ha liberado a 1 niños
+[2026-05-06 04:28:25] El niño N0014 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:25] El niño N0010 ha sido liberado de la colmena
+[2026-05-06 04:28:25] El niño N0010 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:25] El niño N0010 ha vuelto sin sangre
+[2026-05-06 04:28:25] El niño N0005 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:25] El niño N0009 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:26] El niño N0008 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:26] El niño N0023 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:26] El niño N0009 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:26] El niño N0008 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:26] El niño N0026 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:26] El niño N0025 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:26] El niño N0026 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:26] El niño N0002 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:26] El niño N0004 ha pasado al upside down permanecerá allí 3 segundos.
+[2026-05-06 04:28:26] El niño N0027 se une a la batalla
+[2026-05-06 04:28:26] El niño N0027 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:26] El niño N0027 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:26] El niño N0015 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:27] EJECUCION PAUSADA desde el cliente remoto
+[2026-05-06 04:28:37] EJECUCION REANUDADA desde el cliente remoto
+[2026-05-06 04:28:37] El niño N0012 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:37] El niño N0004 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:37] ***TERMINA EL EVENTO INTERVENCION DE ELEVEN***
+[2026-05-06 04:28:37] El niño N0010 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:37] El niño N0011 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:37] El niño N0014 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:37] El niño N0013 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:37] El niño N0027 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:37] El niño N0028 se une a la batalla
+[2026-05-06 04:28:37] El niño N0027 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:37] El niño N0002 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:37] El niño N0028 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:37] El niño N0028 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:37] El demogorgon D0000 se dirige al Bosque
+[2026-05-06 04:28:37] El niño N0016 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:37] El niño N0016 deposita uno de sangre en el bote, llevan por ahora 9
+[2026-05-06 04:28:38] El niño N0029 se une a la batalla
+[2026-05-06 04:28:38] El niño N0029 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:38] El niño N0029 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:38] El niño N0005 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:38] El niño N0005 deposita uno de sangre en el bote, llevan por ahora 10
+[2026-05-06 04:28:38] El niño N0012 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:38] El niño N0028 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:38] El niño N0028 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:38] El niño N0001 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:38] El niño N0018 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:38] El niño N0024 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:39] El niño N0015 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:39] El niño N0015 deposita uno de sangre en el bote, llevan por ahora 11
+[2026-05-06 04:28:39] El niño N0029 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:39] El niño N0030 se une a la batalla
+[2026-05-06 04:28:39] El niño N0030 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:39] El niño N0030 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:40] El niño N0011 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:40] El niño N0011 deposita uno de sangre en el bote, llevan por ahora 12
+[2026-05-06 04:28:40] El niño N0016 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:41] El niño N0030 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:41] El niño N0010 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:41] El niño N0013 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:41] El niño N0013 deposita uno de sangre en el bote, llevan por ahora 13
+[2026-05-06 04:28:41] El niño N0031 se une a la batalla
+[2026-05-06 04:28:41] El niño N0031 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:41] El niño N0031 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:41] El niño N0005 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:41] El demogorgon D0000 se dirige al Centro Comercial
+[2026-05-06 04:28:42] El niño N0010 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:42] El niño N0012 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:42] El niño N0010 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:42] El niño N0014 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:42] El niño N0014 deposita uno de sangre en el bote, llevan por ahora 14
+[2026-05-06 04:28:42] El niño N0015 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:43] El niño N0032 se une a la batalla
+[2026-05-06 04:28:43] El niño N0032 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:43] El niño N0032 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:43] El niño N0031 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:43] El niño N0004 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:43] El niño N0004 deposita uno de sangre en el bote, llevan por ahora 15
+[2026-05-06 04:28:43] El niño N0013 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:44] El niño N0011 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:44] El niño N0033 se une a la batalla
+[2026-05-06 04:28:44] El niño N0033 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:44] El niño N0033 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:44] El niño N0028 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:44] El niño N0016 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:44] El niño N0014 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:44] El niño N0034 se une a la batalla
+[2026-05-06 04:28:44] El niño N0034 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:44] El niño N0034 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:45] El niño N0032 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:45] El niño N0033 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:45] El niño N0020 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:45] El niño N0005 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:45] El niño N0034 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:45] El niño N0032 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:45] El niño N0034 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:46] El niño N0035 se une a la batalla
+[2026-05-06 04:28:46] El niño N0035 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:46] El niño N0035 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:46] El demogorgon D0000 se dirige al Alcantarillado
+[2026-05-06 04:28:46] El demogorgon D0000 ataca a niño N0020.
+[2026-05-06 04:28:46] El niño N0015 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:46] El niño N0016 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:46] El niño N0029 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:46] El niño N0033 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:46] El niño N0016 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:46] El niño N0006 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:46] El niño N0005 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:47] El niño N0036 se une a la batalla
+[2026-05-06 04:28:47] El niño N0036 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:47] El niño N0036 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:47] El niño N0004 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:47] El niño N0013 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:47] El niño N0022 ha pasado al upside down permanecerá allí 3 segundos.
+[2026-05-06 04:28:47] El niño N0035 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:47] El ataque de D0000 a N0020 ha fallado.(Capturas: 2)
+[2026-05-06 04:28:47] El demogorgon D0000 se dirige al Alcantarillado
+[2026-05-06 04:28:47] El demogorgon D0000 ataca a niño N0020.
+[2026-05-06 04:28:48] El niño N0015 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:48] El niño N0036 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:48] El niño N0037 se une a la batalla
+[2026-05-06 04:28:48] El niño N0037 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:48] El niño N0037 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:48] El niño N0011 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:48] El niño N0001 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:48] El niño N0013 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:48] El niño N0015 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:48] El niño N0036 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:48] El niño N0013 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:48] El niño N0014 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:49] El niño N0028 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:49] El niño N0007 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:49] El niño N0038 se une a la batalla
+[2026-05-06 04:28:49] El niño N0038 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:49] El niño N0038 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:49] El niño N0037 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:49] El niño N0020 ha sido atrapado por un demogorgon, actualmente en la colmena
+[2026-05-06 04:28:49] El niño N0020 ha sido liberado de la colmena
+[2026-05-06 04:28:49] El niño N0020 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:49] El niño N0020 ha vuelto sin sangre
+[2026-05-06 04:28:49] El ataque de D0000 a N0020 ha sido realizado correctamente.(Capturas: 3)
+[2026-05-06 04:28:49] El demogorgon D0000 se dirige al Centro Comercial
+[2026-05-06 04:28:49] El demogorgon D0000 ataca a niño N0001.
+[2026-05-06 04:28:50] El niño N0011 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:50] El niño N0030 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:50] El niño N0031 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:50] El niño N0035 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:50] El niño N0011 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:50] El niño N0039 se une a la batalla
+[2026-05-06 04:28:50] El niño N0039 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:50] El niño N0039 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:50] El niño N0019 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:50] El niño N0014 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:50] El niño N0005 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:50] El niño N0014 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:50] El ataque de D0000 a N0001 ha fallado.(Capturas: 3)
+[2026-05-06 04:28:50] El demogorgon D0000 se dirige al Laboratorio
+[2026-05-06 04:28:50] El demogorgon D0000 ataca a niño N0022.
+[2026-05-06 04:28:50] El niño N0006 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:50] El niño N0004 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:50] El niño N0022 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:51] El niño N0038 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:51] El niño N0040 se une a la batalla
+[2026-05-06 04:28:51] El niño N0040 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:51] El niño N0040 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:51] El niño N0022 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:51] El niño N0022 deposita uno de sangre en el bote, llevan por ahora 16
+[2026-05-06 04:28:51] El niño N0039 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:51] El niño N0038 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:51] El niño N0039 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:51] El ataque de D0000 a N0022 ha fallado.(Capturas: 3)
+[2026-05-06 04:28:51] El demogorgon D0000 se dirige al Alcantarillado
+[2026-05-06 04:28:51] El demogorgon D0000 ataca a niño N0007.
+[2026-05-06 04:28:52] El niño N0004 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:28:52] El ataque de D0000 a N0007 ha fallado.(Capturas: 3)
+[2026-05-06 04:28:52] El demogorgon D0000 se dirige al Centro Comercial
+[2026-05-06 04:28:52] El demogorgon D0000 ataca a niño N0001.
+[2026-05-06 04:28:52] El niño N0028 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:52] El niño N0028 deposita uno de sangre en el bote, llevan por ahora 17
+[2026-05-06 04:28:52] El niño N0040 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:52] El niño N0041 se une a la batalla
+[2026-05-06 04:28:52] El niño N0041 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:52] El niño N0041 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:52] El niño N0001 ha sido atrapado por un demogorgon, actualmente en la colmena
+[2026-05-06 04:28:52] El niño N0001 ha sido liberado de la colmena
+[2026-05-06 04:28:52] El niño N0001 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:52] El niño N0001 ha vuelto sin sangre
+[2026-05-06 04:28:53] El niño N0003 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:53] El ataque de D0000 a N0001 ha sido realizado correctamente.(Capturas: 4)
+[2026-05-06 04:28:53] El demogorgon D0000 se dirige al Bosque
+[2026-05-06 04:28:53] El demogorgon D0000 ataca a niño N0019.
+[2026-05-06 04:28:53] El niño N0020 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:53] El niño N0042 se une a la batalla
+[2026-05-06 04:28:53] El niño N0042 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:53] El niño N0042 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:54] El niño N0022 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:54] El niño N0007 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:54] El niño N0006 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:54] El niño N0006 deposita uno de sangre en el bote, llevan por ahora 18
+[2026-05-06 04:28:54] El niño N0041 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:55] El niño N0019 ha sido atrapado por un demogorgon, actualmente en la colmena
+[2026-05-06 04:28:55] El niño N0019 ha sido liberado de la colmena
+[2026-05-06 04:28:55] El niño N0019 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:55] El niño N0019 ha vuelto sin sangre
+[2026-05-06 04:28:55] El niño N0001 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:55] El niño N0028 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:55] El niño N0017 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:55] El niño N0042 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:55] El niño N0041 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:55] El niño N0042 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:55] El niño N0043 se une a la batalla
+[2026-05-06 04:28:55] El niño N0043 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:55] El niño N0043 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:55] El ataque de D0000 a N0019 ha sido realizado correctamente.(Capturas: 5)
+[2026-05-06 04:28:55] El demogorgon D0000 se dirige al Bosque
+[2026-05-06 04:28:56] El niño N0018 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:56] El niño N0043 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:56] El niño N0006 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:57] El niño N0020 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:57] El niño N0022 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:57] El niño N0044 se une a la batalla
+[2026-05-06 04:28:57] El niño N0044 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:57] El niño N0044 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:57] El niño N0007 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:28:57] El niño N0007 deposita uno de sangre en el bote, llevan por ahora 19
+[2026-05-06 04:28:57] El niño N0003 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:28:57] El niño N0019 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:28:58] El niño N0022 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:28:58] El niño N0045 se une a la batalla
+[2026-05-06 04:28:58] El niño N0045 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:28:58] El niño N0045 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:58] El niño N0025 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:58] El niño N0020 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:28:59] El niño N0044 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:28:59] El niño N0044 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:59] El niño N0043 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:28:59] El niño N0028 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:28:59] El niño N0021 ha pasado al upside down permanecerá allí 4 segundos.
+[2026-05-06 04:28:59] El niño N0007 irá a la calle principal durante 3 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:29:00] El niño N0045 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:29:00] El niño N0001 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:29:00] El niño N0046 se une a la batalla
+[2026-05-06 04:29:00] El niño N0046 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:29:00] El niño N0046 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:29:00] El niño N0006 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:29:00] El demogorgon D0000 se dirige al Centro Comercial
+[2026-05-06 04:29:00] El demogorgon D0000 ataca a niño N0018.
+[2026-05-06 04:29:00] El niño N0017 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:29:00] El niño N0024 ha pasado al upside down permanecerá allí 3 segundos.
+[2026-05-06 04:29:00] El niño N0028 irá hacia al bosque, esperando su equipo.
+[2026-05-06 04:29:00] El niño N0028 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:00] El niño N0004 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:01] El niño N0018 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:29:01] El niño N0046 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:29:01] El niño N0045 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:01] El niño N0046 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:01] El niño N0019 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:29:01] El niño N0047 se une a la batalla
+[2026-05-06 04:29:01] El niño N0047 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:29:01] El niño N0047 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:29:01] El ataque de D0000 a N0018 ha fallado.(Capturas: 5)
+[2026-05-06 04:29:01] El demogorgon D0000 se dirige al Centro Comercial
+[2026-05-06 04:29:01] El demogorgon D0000 ataca a niño N0018.
+[2026-05-06 04:29:01] El niño N0003 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:29:01] El niño N0003 deposita uno de sangre en el bote, llevan por ahora 20
+[2026-05-06 04:29:01] El niño N0001 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:29:01] El niño N0022 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:01] El niño N0037 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:01] El niño N0001 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:01] El niño N0006 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:29:02] El niño N0048 se une a la batalla
+[2026-05-06 04:29:02] El niño N0048 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:29:02] El niño N0048 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:29:02] El niño N0026 ha pasado al upside down permanecerá allí 3 segundos.
+[2026-05-06 04:29:02] El niño N0019 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:29:02] El niño N0049 se une a la batalla
+[2026-05-06 04:29:02] El niño N0049 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:29:02] El niño N0049 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:29:03] El niño N0007 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:29:03] El ataque de D0000 a N0018 ha sido realizado correctamente.(Capturas: 6)
+[2026-05-06 04:29:03] El demogorgon D0000 se dirige al Bosque
+[2026-05-06 04:29:03] El demogorgon D0000 ataca a niño N0025.
+[2026-05-06 04:29:03] El niño N0025 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:29:03] El niño N0047 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:29:03] El niño N0017 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:29:03] El niño N0017 deposita uno de sangre en el bote, llevan por ahora 21
+[2026-05-06 04:29:03] El niño N0024 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:29:03] El niño N0021 está en el portal del upside down, esperando a poder pasar
+[2026-05-06 04:29:03] El niño N0050 se une a la batalla
+[2026-05-06 04:29:03] El niño N0050 ha llegado a la calle principal de Hawkings
+[2026-05-06 04:29:03] El niño N0050 ha llegado al sotano byers, recibirá ordenes allí durante 1 segundos.
+[2026-05-06 04:29:04] El niño N0048 irá hacia al laboratorio, esperando su equipo.
+[2026-05-06 04:29:04] El niño N0006 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:04] El niño N0019 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:04] El niño N0048 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:04] El niño N0049 irá hacia al centro comercial, esperando su equipo.
+[2026-05-06 04:29:04] El niño N0040 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:04] El niño N0020 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:04] El niño N0047 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:04] El niño N0049 ha llegado a su portal, esperando a que haya hueco para ir al upside down.
+[2026-05-06 04:29:04] El niño N0007 irá hacia al alcantarillado, esperando su equipo.
+[2026-05-06 04:29:04] El ataque de D0000 a N0025 ha fallado.(Capturas: 6)
+[2026-05-06 04:29:04] El demogorgon D0000 se dirige al Bosque
+[2026-05-06 04:29:04] El demogorgon D0000 ataca a niño N0025.
+[2026-05-06 04:29:04] El niño N0003 irá a la calle principal durante 4 segundos, para evitar sospechas del ejercito
+[2026-05-06 04:29:04] El niño N0018 ha vuelto del upside down, reportará a radio WSQK
+[2026-05-06 04:29:04] El niño N0018 ha vuelto sin sangre
+[2026-05-06 04:29:05] EJECUCION PAUSADA desde el cliente remoto

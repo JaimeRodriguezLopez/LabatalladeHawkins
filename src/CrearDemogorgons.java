@@ -19,12 +19,24 @@ public class CrearDemogorgons extends Thread {
     @Override
     public void run() {
         while (true) {
+            try {
+                ControlPausa.getInstance().esperarSiPausado();
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+                return;
+            }
             if(lugares.acumuladorVictimas.get()>=8){
                 String demogorgonId = nextDemogorgonId();
                 Demogorgon demogorgon = new Demogorgon(demogorgonId,this.lugares, this.eventos, this.log, this.semaforo);
-                lugares.acumuladorVictimas.set(lugares.acumuladorVictimas.get()-8);
+                lugares.acumuladorVictimas.addAndGet(-8);
                 log.log("El demogorgon"+demogorgonId+" se une a la batalla" );
                 demogorgon.start();
+            }
+            try {
+                ControlPausa.getInstance().dormir(200);
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+                return;
             }
         }
     }

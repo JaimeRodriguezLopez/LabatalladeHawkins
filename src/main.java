@@ -8,7 +8,8 @@ public class main {
         EventosAleatorios eventos = new EventosAleatorios(log);
         eventos.start();
         Lugares lugares = new Lugares(eventos,log);
-        lugares.start();//Pongo a funcionar los portales
+        lugares.start();
+        ServidorRMI.iniciar(lugares, eventos, log);
         Semaphore semaforo = new Semaphore(1);
         Demogorgon demogorgonAlpha = new Demogorgon(lugares,eventos,log,semaforo);
         demogorgonAlpha.start();

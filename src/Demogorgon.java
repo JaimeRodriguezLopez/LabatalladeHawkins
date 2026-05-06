@@ -16,6 +16,7 @@ public class Demogorgon extends Thread {
         this.eventos = eventos;
         this.log = log;
         this.exclusionEscogerNinos = exclusionEscogerNinos;
+        this.lugares.registrarDemogorgon(this);
     }
     public Demogorgon(String Nombre, Lugares lugares, EventosAleatorios eventos, Log log, Semaphore exclusionEscogerNinos) {
         this.Nombre = Nombre;
@@ -23,16 +24,31 @@ public class Demogorgon extends Thread {
         this.eventos= eventos;
         this.log = log;
         this.exclusionEscogerNinos = exclusionEscogerNinos;
+        this.lugares.registrarDemogorgon(this);
     }
 
+
+    public String getNombre() {
+        return Nombre;
+    }
+
+    public int getCapturas() {
+        return capturas;
+    }
 
     @Override
     public void run() {
         List<Demogorgon> destino=null;
         while (true) {
+            try {
+                ControlPausa.getInstance().esperarSiPausado();
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+                return;
+            }
             while(eventos.getIntervencionDeEleven()){
                 try {
-                    Thread.sleep(1);
+                    ControlPausa.getInstance().dormir(1);
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
                 }
@@ -103,7 +119,7 @@ public class Demogorgon extends Thread {
                     if(eventos.getTormentaUpsideDown()){
                         TiempoEnZona=TiempoEnZona/2;
                     }
-                    Thread.sleep(TiempoEnZona);
+                    ControlPausa.getInstance().dormir(TiempoEnZona);
                 }else{
 
                     int numNinosEnZona = victimas.size();
@@ -120,7 +136,7 @@ public class Demogorgon extends Thread {
                     if(!ninoVictima.sufreAtaque(longitudAtaque)){
 
                         int longitudPuestaANinoEnColmena= 500 + (int) (Math.random() * (1000 - 500 + 1));
-                        Thread.sleep(longitudPuestaANinoEnColmena);
+                        ControlPausa.getInstance().dormir(longitudPuestaANinoEnColmena);
                         lugares.getLaColmena().add(ninoVictima);
                         lugares.acumuladorVictimas.incrementAndGet();
                         capturas++;

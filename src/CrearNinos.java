@@ -17,12 +17,13 @@ public class CrearNinos extends Thread{
         for (int i = 0; i < NinosTotales; i++) {
             //Logear que empiezan a crearse niños
             try {
+                ControlPausa.getInstance().esperarSiPausado();
                 String idNino = nextNinoId();
                 Nino nino = new Nino(idNino,lugares,this.eventos,this.log);
                 nino.start();
                 log.log("El niño "+idNino+" se une a la batalla");
                 int CooldownCreacionNinos = 500 + (int)(Math.random() * (2000 - 500 + 1));//Creacion del Cooldown
-                Thread.sleep(CooldownCreacionNinos);
+                ControlPausa.getInstance().dormir(CooldownCreacionNinos);
                 //Logear que se ha creado un niño y su id.
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();

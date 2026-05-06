@@ -29,7 +29,7 @@ public class Nino extends Thread {
     }
 
     public boolean sufreAtaque(long duracionMs) throws InterruptedException {
-        Thread.sleep(duracionMs);
+        ControlPausa.getInstance().dormir(duracionMs);
         boolean aguanta = rng.nextInt(3)!=1;
         if(haEstadoEnColmena){ return false; }
         else{
@@ -47,6 +47,7 @@ public class Nino extends Thread {
     public void run() {
         while (true){
             try{
+                ControlPausa.getInstance().esperarSiPausado();
                 lugares.getCallePrincipal().add(this);//Inician en la calle principal de Hawkins
                 log.log("El niño "+ Nombre +" ha llegado a la calle principal de Hawkings");
                 CicloNino();
@@ -59,12 +60,13 @@ public class Nino extends Thread {
     public void CicloNino() throws BrokenBarrierException, InterruptedException {
         try {
             while (!Thread.currentThread().isInterrupted()) {
+                ControlPausa.getInstance().esperarSiPausado();
                 lugares.getCallePrincipal().remove(this);
                 lugares.getSotanoByers().add(this);
 
                 int CooldownPreparacion = 1000 + (int) (Math.random() * (2000 - 1000 + 1)); //Creación del Cooldown
                 log.log("El niño "+ Nombre +" ha llegado al sotano byers, recibirá ordenes allí durante "+ CooldownPreparacion/1000+" segundos.");
-                Thread.sleep(CooldownPreparacion); //Espera entre 1 y 2 segundos
+                ControlPausa.getInstance().dormir(CooldownPreparacion); //Espera entre 1 y 2 segundos
                 //Elección aleatoria de Portal
                 int Portal = (int) (Math.random() * (4));//Selección Portal aleatorio
                 switch (Portal) {//Espera a grupo deseado
@@ -97,7 +99,7 @@ public class Nino extends Thread {
                 portalAlUD.add(this);
                 log.log("El niño "+Nombre+" ha llegado a su portal, esperando a que haya hueco para ir al upside down.");
                 while(portalAlUD.contains(this)){
-                    Thread.sleep(1);
+                    ControlPausa.getInstance().dormir(1);
                 }
 
                 destino.add(this);
@@ -106,11 +108,11 @@ public class Nino extends Thread {
                     TiempoEnUpsideDown = TiempoEnUpsideDown*2;
                 }
                 log.log("El niño "+Nombre+" ha pasado al upside down permanecerá allí "+ TiempoEnUpsideDown/1000 +" segundos.");
-                Thread.sleep(TiempoEnUpsideDown);
+                ControlPausa.getInstance().dormir(TiempoEnUpsideDown);
                 if(haEstadoEnColmena){
                     log.log("El niño "+ Nombre +" ha sido atrapado por un demogorgon, actualmente en la colmena");
                     while(lugares.getLaColmena().contains(this)){
-                        Thread.sleep(1);
+                        ControlPausa.getInstance().dormir(1);
                     }
                     log.log("El niño "+ Nombre +" ha sido liberado de la colmena");
                 }else {
@@ -120,7 +122,7 @@ public class Nino extends Thread {
                     portalAlMN.add(this);
                     log.log("El niño "+Nombre+" está en el portal del upside down, esperando a poder pasar");
                     while (portalAlMN.contains(this)) {
-                        Thread.sleep(1);
+                        ControlPausa.getInstance().dormir(1);
                     }
 
                 }
@@ -135,13 +137,13 @@ public class Nino extends Thread {
                 }
                 haEstadoEnColmena=false;
                 int TiempoWSQK = 2000 + (int) (Math.random() * (4000 - 2000 + 1));
-                Thread.sleep(TiempoWSQK);
+                ControlPausa.getInstance().dormir(TiempoWSQK);
                 lugares.getRadioWSQK().remove(this);
                 lugares.getCallePrincipal().add(this);
 
                 int TiempoCallePrincipal = 3000 + (int) (Math.random() * (5000 - 3000 + 1));
                 log.log("El niño "+Nombre+" irá a la calle principal durante "+TiempoCallePrincipal/1000 +" segundos, para evitar sospechas del ejercito");
-                Thread.sleep(TiempoCallePrincipal);
+                ControlPausa.getInstance().dormir(TiempoCallePrincipal);
             }
         } catch (Exception e) {
             throw new RuntimeException(e);
